@@ -1,9 +1,29 @@
 [gd_scene format=3 uid="uid://7gocfy52s5be"]
 
-[node name="MainMenu" type="Control" unique_id=2068483009]
-layout_mode = 3
+[ext_resource type="Theme" uid="uid://dtvnuuw3ga5y1" path="res://theme/theme.tres" id="1_p8ccj"]
+
+[node name="MainMenu" type="HBoxContainer" unique_id=308517642]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+theme = ExtResource("1_p8ccj")
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1099383803]
+layout_mode = 2
+alignment = 1
+
+[node name="StartGameButton" type="Button" parent="VBoxContainer" unique_id=383957995]
+layout_mode = 2
+theme = ExtResource("1_p8ccj")
+text = "start game"
+
+[node name="ConfigButton" type="Button" parent="VBoxContainer" unique_id=480792224]
+layout_mode = 2
+text = "config"
+
+[node name="QuitButton" type="Button" parent="VBoxContainer" unique_id=477109315]
+layout_mode = 2
+text = "quit"

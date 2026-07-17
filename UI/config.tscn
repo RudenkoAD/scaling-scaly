@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dfuhd7trrnu8i"]
 
-[node name="Config" type="Control" unique_id=1639501793]
+[node name="Config" type="Control" unique_id=1682125990]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
