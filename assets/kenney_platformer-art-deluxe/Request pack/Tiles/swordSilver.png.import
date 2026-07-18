@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd0jle7iegpqk"
-path="res://.godot/imported/swordSilver.png-a0943f7d1877c6176306955c5dc921bc.ctex"
+path="res://.godot/imported/swordSilver.png-db24309ae6cda068399788740f9310c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/swordSilver.png"
-dest_files=["res://.godot/imported/swordSilver.png-a0943f7d1877c6176306955c5dc921bc.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/swordSilver.png"
+dest_files=["res://.godot/imported/swordSilver.png-db24309ae6cda068399788740f9310c1.ctex"]
 
 [params]
 

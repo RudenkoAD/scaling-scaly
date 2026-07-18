@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddbhb7hut7qbd"
-path="res://.godot/imported/liquidWaterTop.png-7c876339a22e06b8eb04905263b00e53.ctex"
+path="res://.godot/imported/liquidWaterTop.png-cb912a7c13c913732d8252487621ff4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/liquidWaterTop.png"
-dest_files=["res://.godot/imported/liquidWaterTop.png-7c876339a22e06b8eb04905263b00e53.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/liquidWaterTop.png"
+dest_files=["res://.godot/imported/liquidWaterTop.png-cb912a7c13c913732d8252487621ff4b.ctex"]
 
 [params]
 

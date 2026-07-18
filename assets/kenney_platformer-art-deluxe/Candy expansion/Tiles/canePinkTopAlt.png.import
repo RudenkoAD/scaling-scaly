@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0vmyov7qfvkr"
-path="res://.godot/imported/canePinkTopAlt.png-8d9475d7f538557752c5e400db4944ba.ctex"
+path="res://.godot/imported/canePinkTopAlt.png-6ea459e9f1c15c2feef44a5c4824e2dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/canePinkTopAlt.png"
-dest_files=["res://.godot/imported/canePinkTopAlt.png-8d9475d7f538557752c5e400db4944ba.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/canePinkTopAlt.png"
+dest_files=["res://.godot/imported/canePinkTopAlt.png-6ea459e9f1c15c2feef44a5c4824e2dc.ctex"]
 
 [params]
 

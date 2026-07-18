@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ng4p67s0leup"
-path="res://.godot/imported/grassCenter_rounded.png-4c8fdff91fb2b545f5c7872dea1ab6df.ctex"
+path="res://.godot/imported/grassCenter_rounded.png-d968f2476b51ee902b267339736fa3fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/grassCenter_rounded.png"
-dest_files=["res://.godot/imported/grassCenter_rounded.png-4c8fdff91fb2b545f5c7872dea1ab6df.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/grassCenter_rounded.png"
+dest_files=["res://.godot/imported/grassCenter_rounded.png-d968f2476b51ee902b267339736fa3fd.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfvsohw6dc7ln"
-path="res://.godot/imported/slimeGreen_hit.png-36f9fd9c461c17fa5bf8357078e57b26.ctex"
+path="res://.godot/imported/slimeGreen_hit.png-5beb175e8d8138bd3eaffb2a50f84811.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/slimeGreen_hit.png"
-dest_files=["res://.godot/imported/slimeGreen_hit.png-36f9fd9c461c17fa5bf8357078e57b26.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/slimeGreen_hit.png"
+dest_files=["res://.godot/imported/slimeGreen_hit.png-5beb175e8d8138bd3eaffb2a50f84811.ctex"]
 
 [params]
 

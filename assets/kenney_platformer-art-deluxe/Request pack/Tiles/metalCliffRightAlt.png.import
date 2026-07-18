@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbj2rnfegvoj1"
-path="res://.godot/imported/metalCliffRightAlt.png-ae89bee60bfd34749a23c2a0316c3099.ctex"
+path="res://.godot/imported/metalCliffRightAlt.png-58e3ede8f38f1e4e47a11cd26237df6e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/metalCliffRightAlt.png"
-dest_files=["res://.godot/imported/metalCliffRightAlt.png-ae89bee60bfd34749a23c2a0316c3099.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/metalCliffRightAlt.png"
+dest_files=["res://.godot/imported/metalCliffRightAlt.png-58e3ede8f38f1e4e47a11cd26237df6e.ctex"]
 
 [params]
 

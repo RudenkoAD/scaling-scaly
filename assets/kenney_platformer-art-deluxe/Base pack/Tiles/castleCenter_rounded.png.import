@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqjavgddl5ct1"
-path="res://.godot/imported/castleCenter_rounded.png-7391a47f9f7fe3b6d57f351811d5fd44.ctex"
+path="res://.godot/imported/castleCenter_rounded.png-282d59cd2463f578abf3740c256ccc3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/castleCenter_rounded.png"
-dest_files=["res://.godot/imported/castleCenter_rounded.png-7391a47f9f7fe3b6d57f351811d5fd44.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/castleCenter_rounded.png"
+dest_files=["res://.godot/imported/castleCenter_rounded.png-282d59cd2463f578abf3740c256ccc3b.ctex"]
 
 [params]
 

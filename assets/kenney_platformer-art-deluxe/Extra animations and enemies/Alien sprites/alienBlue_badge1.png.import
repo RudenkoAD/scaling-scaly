@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs8rj5h0mgmkc"
-path="res://.godot/imported/alienBlue_badge1.png-1bbe864edbb2ea1df1ac62ea36e2b029.ctex"
+path="res://.godot/imported/alienBlue_badge1.png-876389e61a9e87aadf96f064e20e65fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienBlue_badge1.png"
-dest_files=["res://.godot/imported/alienBlue_badge1.png-1bbe864edbb2ea1df1ac62ea36e2b029.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienBlue_badge1.png"
+dest_files=["res://.godot/imported/alienBlue_badge1.png-876389e61a9e87aadf96f064e20e65fc.ctex"]
 
 [params]
 

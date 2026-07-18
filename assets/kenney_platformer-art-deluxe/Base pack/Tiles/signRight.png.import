@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci25qaakex0nh"
-path="res://.godot/imported/signRight.png-1a0acad3c4813de55f78d7d3815186c0.ctex"
+path="res://.godot/imported/signRight.png-a7b7c530d30f112f652490be6e2e8a70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/signRight.png"
-dest_files=["res://.godot/imported/signRight.png-1a0acad3c4813de55f78d7d3815186c0.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/signRight.png"
+dest_files=["res://.godot/imported/signRight.png-a7b7c530d30f112f652490be6e2e8a70.ctex"]
 
 [params]
 

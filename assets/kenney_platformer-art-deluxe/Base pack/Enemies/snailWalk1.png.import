@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2gmnjxtbfjwv"
-path="res://.godot/imported/snailWalk1.png-4bf08ab4dc19077e0394554662617a88.ctex"
+path="res://.godot/imported/snailWalk1.png-317786547847d80ec4b2b67d321d92eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/snailWalk1.png"
-dest_files=["res://.godot/imported/snailWalk1.png-4bf08ab4dc19077e0394554662617a88.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/snailWalk1.png"
+dest_files=["res://.godot/imported/snailWalk1.png-317786547847d80ec4b2b67d321d92eb.ctex"]
 
 [params]
 

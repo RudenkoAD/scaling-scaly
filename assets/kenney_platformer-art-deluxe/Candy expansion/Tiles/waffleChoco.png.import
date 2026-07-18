@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jfhwo6x2qx3g"
-path="res://.godot/imported/waffleChoco.png-310b69da7251a0023c40ca58ba99a29f.ctex"
+path="res://.godot/imported/waffleChoco.png-78a6774b0e21adc8fc4935cedcca0fbc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/waffleChoco.png"
-dest_files=["res://.godot/imported/waffleChoco.png-310b69da7251a0023c40ca58ba99a29f.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/waffleChoco.png"
+dest_files=["res://.godot/imported/waffleChoco.png-78a6774b0e21adc8fc4935cedcca0fbc.ctex"]
 
 [params]
 

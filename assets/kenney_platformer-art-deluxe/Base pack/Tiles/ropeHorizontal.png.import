@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj4jntbhc5kd7"
-path="res://.godot/imported/ropeHorizontal.png-83846f297e41494fc543dfb360bdea23.ctex"
+path="res://.godot/imported/ropeHorizontal.png-fd7872de6aaafc99d59835e3244568e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/ropeHorizontal.png"
-dest_files=["res://.godot/imported/ropeHorizontal.png-83846f297e41494fc543dfb360bdea23.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/ropeHorizontal.png"
+dest_files=["res://.godot/imported/ropeHorizontal.png-fd7872de6aaafc99d59835e3244568e2.ctex"]
 
 [params]
 

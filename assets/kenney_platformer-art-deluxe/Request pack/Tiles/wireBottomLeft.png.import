@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbp24qn5uuu0w"
-path="res://.godot/imported/wireBottomLeft.png-403a2dc4d617cb9c54f7ed6954c2a3d4.ctex"
+path="res://.godot/imported/wireBottomLeft.png-a9fd409d44fe1f4330b1cc3f92afb352.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/wireBottomLeft.png"
-dest_files=["res://.godot/imported/wireBottomLeft.png-403a2dc4d617cb9c54f7ed6954c2a3d4.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/wireBottomLeft.png"
+dest_files=["res://.godot/imported/wireBottomLeft.png-a9fd409d44fe1f4330b1cc3f92afb352.ctex"]
 
 [params]
 

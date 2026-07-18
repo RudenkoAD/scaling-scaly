@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpjuw0bqoli5o"
-path="res://.godot/imported/stoneCliffRightAlt.png-f2d2a45cd3fb32e1529e46643678331e.ctex"
+path="res://.godot/imported/stoneCliffRightAlt.png-35ae9585b4c1d619ee9270a908a0d567.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/stoneCliffRightAlt.png"
-dest_files=["res://.godot/imported/stoneCliffRightAlt.png-f2d2a45cd3fb32e1529e46643678331e.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/stoneCliffRightAlt.png"
+dest_files=["res://.godot/imported/stoneCliffRightAlt.png-35ae9585b4c1d619ee9270a908a0d567.ctex"]
 
 [params]
 

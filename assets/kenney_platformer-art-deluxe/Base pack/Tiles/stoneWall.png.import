@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd8ox8j4hu3u0"
-path="res://.godot/imported/stoneWall.png-cf5eaac4eef04efbc7697ce66fcde2ef.ctex"
+path="res://.godot/imported/stoneWall.png-54585abb2f3383ab26f882b0ce9c40f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/stoneWall.png"
-dest_files=["res://.godot/imported/stoneWall.png-cf5eaac4eef04efbc7697ce66fcde2ef.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/stoneWall.png"
+dest_files=["res://.godot/imported/stoneWall.png-54585abb2f3383ab26f882b0ce9c40f0.ctex"]
 
 [params]
 

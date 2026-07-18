@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq72mu8tdhfbv"
-path="res://.godot/imported/piranha.png-a61e171b703d7013f188c653807ec7db.ctex"
+path="res://.godot/imported/piranha.png-1f0cb2f0688de9f13d0bc1705be2f6c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/piranha.png"
-dest_files=["res://.godot/imported/piranha.png-a61e171b703d7013f188c653807ec7db.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/piranha.png"
+dest_files=["res://.godot/imported/piranha.png-1f0cb2f0688de9f13d0bc1705be2f6c6.ctex"]
 
 [params]
 

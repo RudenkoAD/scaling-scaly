@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuwkr6hggik47"
-path="res://.godot/imported/cakeHalfAltLeft.png-d389423f68ac23a9c7e140521e3944e3.ctex"
+path="res://.godot/imported/cakeHalfAltLeft.png-90a989d0c19f2fcfb96e167c31bbcb50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/cakeHalfAltLeft.png"
-dest_files=["res://.godot/imported/cakeHalfAltLeft.png-d389423f68ac23a9c7e140521e3944e3.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/cakeHalfAltLeft.png"
+dest_files=["res://.godot/imported/cakeHalfAltLeft.png-90a989d0c19f2fcfb96e167c31bbcb50.ctex"]
 
 [params]
 

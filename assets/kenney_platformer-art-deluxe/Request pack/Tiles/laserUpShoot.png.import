@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://te2ku4foc8ox"
-path="res://.godot/imported/laserUpShoot.png-83d0fa7370b1da6a36a35fac83ddd5fc.ctex"
+path="res://.godot/imported/laserUpShoot.png-25e8e73199db8a932da61d0a50effae0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/laserUpShoot.png"
-dest_files=["res://.godot/imported/laserUpShoot.png-83d0fa7370b1da6a36a35fac83ddd5fc.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/laserUpShoot.png"
+dest_files=["res://.godot/imported/laserUpShoot.png-25e8e73199db8a932da61d0a50effae0.ctex"]
 
 [params]
 

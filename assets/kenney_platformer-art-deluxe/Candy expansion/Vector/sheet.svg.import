@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dalnvpo57wbe7"
-path="res://.godot/imported/sheet.svg-dc364f77c218dfd7c677b58f18cbe559.ctex"
+path="res://.godot/imported/sheet.svg-ed99214dccaf6b95ba42a15632dd15f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Vector/sheet.svg"
-dest_files=["res://.godot/imported/sheet.svg-dc364f77c218dfd7c677b58f18cbe559.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Vector/sheet.svg"
+dest_files=["res://.godot/imported/sheet.svg-ed99214dccaf6b95ba42a15632dd15f7.ctex"]
 
 [params]
 

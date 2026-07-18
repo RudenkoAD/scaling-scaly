@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3u5d87bf3d82"
-path="res://.godot/imported/gemGreen.png-26bd59a3f96dc386e586f98e88274b85.ctex"
+path="res://.godot/imported/gemGreen.png-e77e2a84d80213694dba5eb8ab51aee8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/gemGreen.png"
-dest_files=["res://.godot/imported/gemGreen.png-26bd59a3f96dc386e586f98e88274b85.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/gemGreen.png"
+dest_files=["res://.godot/imported/gemGreen.png-e77e2a84d80213694dba5eb8ab51aee8.ctex"]
 
 [params]
 

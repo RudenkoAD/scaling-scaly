@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b15gvui00i1ak"
-path="res://.godot/imported/alienGreen_duck.png-bfbc0ec3631ccbc1d77311eb4a867819.ctex"
+path="res://.godot/imported/alienGreen_duck.png-392c9878d64d00f6fa9e522ffa61a958.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienGreen_duck.png"
-dest_files=["res://.godot/imported/alienGreen_duck.png-bfbc0ec3631ccbc1d77311eb4a867819.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienGreen_duck.png"
+dest_files=["res://.godot/imported/alienGreen_duck.png-392c9878d64d00f6fa9e522ffa61a958.ctex"]
 
 [params]
 

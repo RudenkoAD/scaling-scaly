@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjn1yct6fmdal"
-path="res://.godot/imported/bee_hit.png-9ce1f7d25469e952feda27943d453210.ctex"
+path="res://.godot/imported/bee_hit.png-67dccb8f29403830af56b5e34e710f2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/bee_hit.png"
-dest_files=["res://.godot/imported/bee_hit.png-9ce1f7d25469e952feda27943d453210.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/bee_hit.png"
+dest_files=["res://.godot/imported/bee_hit.png-67dccb8f29403830af56b5e34e710f2b.ctex"]
 
 [params]
 

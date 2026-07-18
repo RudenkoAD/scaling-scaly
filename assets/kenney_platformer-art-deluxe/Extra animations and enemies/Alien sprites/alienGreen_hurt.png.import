@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l2mv5pomiofw"
-path="res://.godot/imported/alienGreen_hurt.png-88e1937e9e71d436069b70838f183a5a.ctex"
+path="res://.godot/imported/alienGreen_hurt.png-c26b8574c42d8be1fe70c0009f593e31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienGreen_hurt.png"
-dest_files=["res://.godot/imported/alienGreen_hurt.png-88e1937e9e71d436069b70838f183a5a.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienGreen_hurt.png"
+dest_files=["res://.godot/imported/alienGreen_hurt.png-c26b8574c42d8be1fe70c0009f593e31.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ldq2nkqegw8g"
-path="res://.godot/imported/coinBronze.png-fc2dc91691e2c813517bfb63575c65f2.ctex"
+path="res://.godot/imported/coinBronze.png-9017b857c67d62c52a92f1919b17720c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/coinBronze.png"
-dest_files=["res://.godot/imported/coinBronze.png-fc2dc91691e2c813517bfb63575c65f2.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/coinBronze.png"
+dest_files=["res://.godot/imported/coinBronze.png-9017b857c67d62c52a92f1919b17720c.ctex"]
 
 [params]
 

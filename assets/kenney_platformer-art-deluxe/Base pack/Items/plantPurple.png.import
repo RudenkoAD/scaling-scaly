@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsh6b54xnnjfj"
-path="res://.godot/imported/plantPurple.png-745d16ea2dc0d11f042a719b468fe154.ctex"
+path="res://.godot/imported/plantPurple.png-baa1a798677e8edc6c2e4d5ad0c3e5b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/plantPurple.png"
-dest_files=["res://.godot/imported/plantPurple.png-745d16ea2dc0d11f042a719b468fe154.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/plantPurple.png"
+dest_files=["res://.godot/imported/plantPurple.png-baa1a798677e8edc6c2e4d5ad0c3e5b2.ctex"]
 
 [params]
 

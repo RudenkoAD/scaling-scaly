@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wo0iqp21jn8i"
-path="res://.godot/imported/dirtLedgeRight.png-786597618967ec01ba54b55667f9bb96.ctex"
+path="res://.godot/imported/dirtLedgeRight.png-eb1e79c88641e52f5d3ac5b47f6b83cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/dirtLedgeRight.png"
-dest_files=["res://.godot/imported/dirtLedgeRight.png-786597618967ec01ba54b55667f9bb96.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/dirtLedgeRight.png"
+dest_files=["res://.godot/imported/dirtLedgeRight.png-eb1e79c88641e52f5d3ac5b47f6b83cf.ctex"]
 
 [params]
 

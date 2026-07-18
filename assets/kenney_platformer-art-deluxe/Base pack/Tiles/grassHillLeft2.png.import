@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddsynuw2v7qil"
-path="res://.godot/imported/grassHillLeft2.png-cf5f15a46b34c1aca5012360acc9f114.ctex"
+path="res://.godot/imported/grassHillLeft2.png-921341f770a1390b9ba962d5cda7a440.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/grassHillLeft2.png"
-dest_files=["res://.godot/imported/grassHillLeft2.png-cf5f15a46b34c1aca5012360acc9f114.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/grassHillLeft2.png"
+dest_files=["res://.godot/imported/grassHillLeft2.png-921341f770a1390b9ba962d5cda7a440.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq0w4vjadbk3k"
-path="res://.godot/imported/signExit.png-164b140506e1c796378c16289447b6ab.ctex"
+path="res://.godot/imported/signExit.png-cce62226ae3af5f6f76b6fcffcf28e9a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/signExit.png"
-dest_files=["res://.godot/imported/signExit.png-164b140506e1c796378c16289447b6ab.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/signExit.png"
+dest_files=["res://.godot/imported/signExit.png-cce62226ae3af5f6f76b6fcffcf28e9a.ctex"]
 
 [params]
 

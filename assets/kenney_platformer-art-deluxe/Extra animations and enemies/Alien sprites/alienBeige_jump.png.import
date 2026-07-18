@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8pix75grwk1p"
-path="res://.godot/imported/alienBeige_jump.png-b95e52b5518aefd47a667ec65b0c3240.ctex"
+path="res://.godot/imported/alienBeige_jump.png-be210f85c5c81e06bf406b6b52f51950.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienBeige_jump.png"
-dest_files=["res://.godot/imported/alienBeige_jump.png-b95e52b5518aefd47a667ec65b0c3240.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienBeige_jump.png"
+dest_files=["res://.godot/imported/alienBeige_jump.png-be210f85c5c81e06bf406b6b52f51950.ctex"]
 
 [params]
 

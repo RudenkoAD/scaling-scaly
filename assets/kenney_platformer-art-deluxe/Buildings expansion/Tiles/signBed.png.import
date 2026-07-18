@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cef76y232g54i"
-path="res://.godot/imported/signBed.png-ca4cfc1aa5e3c26286b951303a504e91.ctex"
+path="res://.godot/imported/signBed.png-05e0f1d8ec653a0544b24d7da7d82e31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/signBed.png"
-dest_files=["res://.godot/imported/signBed.png-ca4cfc1aa5e3c26286b951303a504e91.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/signBed.png"
+dest_files=["res://.godot/imported/signBed.png-05e0f1d8ec653a0544b24d7da7d82e31.ctex"]
 
 [params]
 

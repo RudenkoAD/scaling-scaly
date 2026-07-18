@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l5ybmm1hhrm6"
-path="res://.godot/imported/flyFly2.png-f3dc3cd9a6623b2955e628591b2d6400.ctex"
+path="res://.godot/imported/flyFly2.png-76d9abc93d120bb0e9f1e358661675de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/flyFly2.png"
-dest_files=["res://.godot/imported/flyFly2.png-f3dc3cd9a6623b2955e628591b2d6400.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/flyFly2.png"
+dest_files=["res://.godot/imported/flyFly2.png-76d9abc93d120bb0e9f1e358661675de.ctex"]
 
 [params]
 

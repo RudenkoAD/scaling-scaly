@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj3gp1oi08p1c"
-path="res://.godot/imported/alienYellow_climb2.png-4d87eb90e6ac10b9434465ae8f512fd5.ctex"
+path="res://.godot/imported/alienYellow_climb2.png-e44e2c88116cb3186e90fd70d77d02f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienYellow_climb2.png"
-dest_files=["res://.godot/imported/alienYellow_climb2.png-4d87eb90e6ac10b9434465ae8f512fd5.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienYellow_climb2.png"
+dest_files=["res://.godot/imported/alienYellow_climb2.png-e44e2c88116cb3186e90fd70d77d02f0.ctex"]
 
 [params]
 

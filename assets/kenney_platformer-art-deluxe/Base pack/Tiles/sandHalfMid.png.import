@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwdyyxnp3j5mj"
-path="res://.godot/imported/sandHalfMid.png-16880c3af6a25cf335b439e9c135fdad.ctex"
+path="res://.godot/imported/sandHalfMid.png-732a0ec0e14c089b57b7d12b17fdf393.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/sandHalfMid.png"
-dest_files=["res://.godot/imported/sandHalfMid.png-16880c3af6a25cf335b439e9c135fdad.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/sandHalfMid.png"
+dest_files=["res://.godot/imported/sandHalfMid.png-732a0ec0e14c089b57b7d12b17fdf393.ctex"]
 
 [params]
 

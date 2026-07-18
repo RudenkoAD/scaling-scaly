@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6vsacayrih30"
-path="res://.godot/imported/stoneCaveBottom.png-daf3157df11ef0a1d4ba8feb523b1ab1.ctex"
+path="res://.godot/imported/stoneCaveBottom.png-85232353474d300dc78b166d66c3488e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/stoneCaveBottom.png"
-dest_files=["res://.godot/imported/stoneCaveBottom.png-daf3157df11ef0a1d4ba8feb523b1ab1.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/stoneCaveBottom.png"
+dest_files=["res://.godot/imported/stoneCaveBottom.png-85232353474d300dc78b166d66c3488e.ctex"]
 
 [params]
 

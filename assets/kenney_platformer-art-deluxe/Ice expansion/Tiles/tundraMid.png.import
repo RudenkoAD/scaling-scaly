@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br5spbf3gfu7p"
-path="res://.godot/imported/tundraMid.png-9f5598b6fb0c7de764b06cece2ea6449.ctex"
+path="res://.godot/imported/tundraMid.png-7865c8cc001c5c9829310fd8f783a68f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/tundraMid.png"
-dest_files=["res://.godot/imported/tundraMid.png-9f5598b6fb0c7de764b06cece2ea6449.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/tundraMid.png"
+dest_files=["res://.godot/imported/tundraMid.png-7865c8cc001c5c9829310fd8f783a68f.ctex"]
 
 [params]
 

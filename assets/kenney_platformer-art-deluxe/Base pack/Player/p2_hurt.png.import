@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0movrab8vgw8"
-path="res://.godot/imported/p2_hurt.png-3ec3620ce3877de04afabd5069c9de32.ctex"
+path="res://.godot/imported/p2_hurt.png-df13b7b2b1db9198a167e64690d1184a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Player/p2_hurt.png"
-dest_files=["res://.godot/imported/p2_hurt.png-3ec3620ce3877de04afabd5069c9de32.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Player/p2_hurt.png"
+dest_files=["res://.godot/imported/p2_hurt.png-df13b7b2b1db9198a167e64690d1184a.ctex"]
 
 [params]
 

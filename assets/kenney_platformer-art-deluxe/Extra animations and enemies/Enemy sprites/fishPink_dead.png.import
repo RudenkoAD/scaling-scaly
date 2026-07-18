@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgt512aq4vyx3"
-path="res://.godot/imported/fishPink_dead.png-24e255af8fb80f769c3ae92fa873ffcf.ctex"
+path="res://.godot/imported/fishPink_dead.png-37eae7db69b28794d0d7e856605d4102.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/fishPink_dead.png"
-dest_files=["res://.godot/imported/fishPink_dead.png-24e255af8fb80f769c3ae92fa873ffcf.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/fishPink_dead.png"
+dest_files=["res://.godot/imported/fishPink_dead.png-37eae7db69b28794d0d7e856605d4102.ctex"]
 
 [params]
 

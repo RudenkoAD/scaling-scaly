@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2c2s2txj3uud"
-path="res://.godot/imported/items_spritesheet.png-98a0c97abeb17243be53707a373d585f.ctex"
+path="res://.godot/imported/items_spritesheet.png-8ffd7306a19c9c63e164fce5ffbecc0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/items_spritesheet.png"
-dest_files=["res://.godot/imported/items_spritesheet.png-98a0c97abeb17243be53707a373d585f.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/items_spritesheet.png"
+dest_files=["res://.godot/imported/items_spritesheet.png-8ffd7306a19c9c63e164fce5ffbecc0b.ctex"]
 
 [params]
 

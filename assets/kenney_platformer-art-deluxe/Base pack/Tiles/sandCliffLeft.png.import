@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0sv4geeu5ung"
-path="res://.godot/imported/sandCliffLeft.png-6207c00756e44c039fc27b81aec6be43.ctex"
+path="res://.godot/imported/sandCliffLeft.png-fee2704534610f9c2c5d794affa9beab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/sandCliffLeft.png"
-dest_files=["res://.godot/imported/sandCliffLeft.png-6207c00756e44c039fc27b81aec6be43.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/sandCliffLeft.png"
+dest_files=["res://.godot/imported/sandCliffLeft.png-fee2704534610f9c2c5d794affa9beab.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhs58tx7w6nma"
-path="res://.godot/imported/windowHighLeadlightMid.png-235c030bb86a446d26ffc687b8f0a8ba.ctex"
+path="res://.godot/imported/windowHighLeadlightMid.png-874ba7a6971fd18447b3438b92ad9a91.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/windowHighLeadlightMid.png"
-dest_files=["res://.godot/imported/windowHighLeadlightMid.png-235c030bb86a446d26ffc687b8f0a8ba.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/windowHighLeadlightMid.png"
+dest_files=["res://.godot/imported/windowHighLeadlightMid.png-874ba7a6971fd18447b3438b92ad9a91.ctex"]
 
 [params]
 

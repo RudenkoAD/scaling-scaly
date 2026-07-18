@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhvspwa0en6r7"
-path="res://.godot/imported/blockerSad.png-2165ab3fc9e81444cdb8bf3882eb1f7c.ctex"
+path="res://.godot/imported/blockerSad.png-5ccc60febda3b53509dd519ba2a6736c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/blockerSad.png"
-dest_files=["res://.godot/imported/blockerSad.png-2165ab3fc9e81444cdb8bf3882eb1f7c.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/blockerSad.png"
+dest_files=["res://.godot/imported/blockerSad.png-5ccc60febda3b53509dd519ba2a6736c.ctex"]
 
 [params]
 

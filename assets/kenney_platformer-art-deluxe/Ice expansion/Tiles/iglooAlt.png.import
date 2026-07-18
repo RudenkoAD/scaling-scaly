@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjfxvf7xpnxa5"
-path="res://.godot/imported/iglooAlt.png-234533fc961086c387d78b2cd2a9cf6b.ctex"
+path="res://.godot/imported/iglooAlt.png-d660a7a6e2463d55ec27fe75cfcfc398.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/iglooAlt.png"
-dest_files=["res://.godot/imported/iglooAlt.png-234533fc961086c387d78b2cd2a9cf6b.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/iglooAlt.png"
+dest_files=["res://.godot/imported/iglooAlt.png-d660a7a6e2463d55ec27fe75cfcfc398.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp8635x5kekmt"
-path="res://.godot/imported/laserGreenVertical.png-17f0fe53cc76ba1d5d1fefb613ae3e6a.ctex"
+path="res://.godot/imported/laserGreenVertical.png-c1e4263c31bcf222faa3ce294abcd853.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/laserGreenVertical.png"
-dest_files=["res://.godot/imported/laserGreenVertical.png-17f0fe53cc76ba1d5d1fefb613ae3e6a.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/laserGreenVertical.png"
+dest_files=["res://.godot/imported/laserGreenVertical.png-c1e4263c31bcf222faa3ce294abcd853.ctex"]
 
 [params]
 

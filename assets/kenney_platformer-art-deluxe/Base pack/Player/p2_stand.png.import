@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hxv7owxde4r1"
-path="res://.godot/imported/p2_stand.png-886dd8261b701d83ceba3603c4ae6769.ctex"
+path="res://.godot/imported/p2_stand.png-a0ef8f79a32ea0827fc3f46d06b4596b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Player/p2_stand.png"
-dest_files=["res://.godot/imported/p2_stand.png-886dd8261b701d83ceba3603c4ae6769.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Player/p2_stand.png"
+dest_files=["res://.godot/imported/p2_stand.png-a0ef8f79a32ea0827fc3f46d06b4596b.ctex"]
 
 [params]
 

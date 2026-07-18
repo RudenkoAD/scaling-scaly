@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq4rebfrdfj2s"
-path="res://.godot/imported/snowMid.png-f1ed186cb405123ee5154253ec25a781.ctex"
+path="res://.godot/imported/snowMid.png-c6cf9f9fd2d20381092a2d2d050fcc60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/snowMid.png"
-dest_files=["res://.godot/imported/snowMid.png-f1ed186cb405123ee5154253ec25a781.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/snowMid.png"
+dest_files=["res://.godot/imported/snowMid.png-c6cf9f9fd2d20381092a2d2d050fcc60.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnq42al15a8l5"
-path="res://.godot/imported/sheet.png-d0c61a82763248c6055a221d7a1921b4.ctex"
+path="res://.godot/imported/sheet.png-c5b8a24acba06e689940f9ff4066f68a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/sheet.png"
-dest_files=["res://.godot/imported/sheet.png-d0c61a82763248c6055a221d7a1921b4.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/sheet.png"
+dest_files=["res://.godot/imported/sheet.png-c5b8a24acba06e689940f9ff4066f68a.ctex"]
 
 [params]
 

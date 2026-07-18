@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dygt0grvfv5ev"
-path="res://.godot/imported/creamChoco.png-05eeb629b94a06c3432bdbfcd113291e.ctex"
+path="res://.godot/imported/creamChoco.png-85a661b421b890ab3aabba546bada491.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/creamChoco.png"
-dest_files=["res://.godot/imported/creamChoco.png-05eeb629b94a06c3432bdbfcd113291e.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/creamChoco.png"
+dest_files=["res://.godot/imported/creamChoco.png-85a661b421b890ab3aabba546bada491.ctex"]
 
 [params]
 

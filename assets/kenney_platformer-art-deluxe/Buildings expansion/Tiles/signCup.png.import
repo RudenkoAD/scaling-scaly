@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ycxlftvkow1a"
-path="res://.godot/imported/signCup.png-c09149b3ca32b24e316820294e29c96a.ctex"
+path="res://.godot/imported/signCup.png-d5078b4a471adbb6a3a44348751aec05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/signCup.png"
-dest_files=["res://.godot/imported/signCup.png-c09149b3ca32b24e316820294e29c96a.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/signCup.png"
+dest_files=["res://.godot/imported/signCup.png-d5078b4a471adbb6a3a44348751aec05.ctex"]
 
 [params]
 

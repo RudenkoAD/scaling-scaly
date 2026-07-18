@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqnb7n4ro7sg2"
-path="res://.godot/imported/bush.png-faf52686bf22a5e745fc810178efa3b5.ctex"
+path="res://.godot/imported/bush.png-25b028a54c8b8c53acf1986405d704eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mushroom expansion/PNG/bush.png"
-dest_files=["res://.godot/imported/bush.png-faf52686bf22a5e745fc810178efa3b5.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Mushroom expansion/PNG/bush.png"
+dest_files=["res://.godot/imported/bush.png-25b028a54c8b8c53acf1986405d704eb.ctex"]
 
 [params]
 

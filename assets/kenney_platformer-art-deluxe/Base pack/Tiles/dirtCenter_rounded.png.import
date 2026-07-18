@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cswraxyna85at"
-path="res://.godot/imported/dirtCenter_rounded.png-570fbde0d447077dd09511c3922f13eb.ctex"
+path="res://.godot/imported/dirtCenter_rounded.png-60affc26131176f4322e33d34a4ddb47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/dirtCenter_rounded.png"
-dest_files=["res://.godot/imported/dirtCenter_rounded.png-570fbde0d447077dd09511c3922f13eb.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/dirtCenter_rounded.png"
+dest_files=["res://.godot/imported/dirtCenter_rounded.png-60affc26131176f4322e33d34a4ddb47.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doahish0c8465"
-path="res://.godot/imported/liquidLavaTop_mid.png-b0b598f28b665794abcc5c2fa8a03db0.ctex"
+path="res://.godot/imported/liquidLavaTop_mid.png-377c6b429a3e97c2828ed9add8737b48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/liquidLavaTop_mid.png"
-dest_files=["res://.godot/imported/liquidLavaTop_mid.png-b0b598f28b665794abcc5c2fa8a03db0.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/liquidLavaTop_mid.png"
+dest_files=["res://.godot/imported/liquidLavaTop_mid.png-377c6b429a3e97c2828ed9add8737b48.ctex"]
 
 [params]
 

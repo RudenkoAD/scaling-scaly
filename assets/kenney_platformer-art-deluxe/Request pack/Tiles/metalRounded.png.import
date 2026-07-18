@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcojdv4d00lpu"
-path="res://.godot/imported/metalRounded.png-3f7baf575f89fb4d5b6ffa9e1eaf214d.ctex"
+path="res://.godot/imported/metalRounded.png-0699272330cac11c6eda6f2e4a540a60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/metalRounded.png"
-dest_files=["res://.godot/imported/metalRounded.png-3f7baf575f89fb4d5b6ffa9e1eaf214d.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/metalRounded.png"
+dest_files=["res://.godot/imported/metalRounded.png-0699272330cac11c6eda6f2e4a540a60.ctex"]
 
 [params]
 

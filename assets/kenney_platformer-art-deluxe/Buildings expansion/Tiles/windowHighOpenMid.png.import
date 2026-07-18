@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2uc6opxiools"
-path="res://.godot/imported/windowHighOpenMid.png-d6a0a054b14a3e0d119edde1cf059b80.ctex"
+path="res://.godot/imported/windowHighOpenMid.png-65940f045495d51b94695e9f9858f723.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/windowHighOpenMid.png"
-dest_files=["res://.godot/imported/windowHighOpenMid.png-d6a0a054b14a3e0d119edde1cf059b80.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/windowHighOpenMid.png"
+dest_files=["res://.godot/imported/windowHighOpenMid.png-65940f045495d51b94695e9f9858f723.ctex"]
 
 [params]
 

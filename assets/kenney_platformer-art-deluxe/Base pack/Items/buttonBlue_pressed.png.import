@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dym0gpsgehwrt"
-path="res://.godot/imported/buttonBlue_pressed.png-19e49ea01cba96c3158451ec352ec0fc.ctex"
+path="res://.godot/imported/buttonBlue_pressed.png-cb2d2941214e63d4fb098cf8c93b83b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/buttonBlue_pressed.png"
-dest_files=["res://.godot/imported/buttonBlue_pressed.png-19e49ea01cba96c3158451ec352ec0fc.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/buttonBlue_pressed.png"
+dest_files=["res://.godot/imported/buttonBlue_pressed.png-cb2d2941214e63d4fb098cf8c93b83b0.ctex"]
 
 [params]
 

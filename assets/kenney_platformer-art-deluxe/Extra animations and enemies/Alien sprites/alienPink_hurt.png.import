@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl5ed0sy0beco"
-path="res://.godot/imported/alienPink_hurt.png-31a5b66a58e34dd5532f499cd6ed0a49.ctex"
+path="res://.godot/imported/alienPink_hurt.png-fecece1ce3bb6518d1c18dfda7bde623.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Alien sprites/alienPink_hurt.png"
-dest_files=["res://.godot/imported/alienPink_hurt.png-31a5b66a58e34dd5532f499cd6ed0a49.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Alien sprites/alienPink_hurt.png"
+dest_files=["res://.godot/imported/alienPink_hurt.png-fecece1ce3bb6518d1c18dfda7bde623.ctex"]
 
 [params]
 

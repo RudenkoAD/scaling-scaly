@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cptxjv21lms43"
-path="res://.godot/imported/boxWarning.png-44adcc25efe0e6488bf1eeff674e4b29.ctex"
+path="res://.godot/imported/boxWarning.png-b93dc6ccf6090a6367f6ad3252d7c2bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/boxWarning.png"
-dest_files=["res://.godot/imported/boxWarning.png-44adcc25efe0e6488bf1eeff674e4b29.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/boxWarning.png"
+dest_files=["res://.godot/imported/boxWarning.png-b93dc6ccf6090a6367f6ad3252d7c2bf.ctex"]
 
 [params]
 

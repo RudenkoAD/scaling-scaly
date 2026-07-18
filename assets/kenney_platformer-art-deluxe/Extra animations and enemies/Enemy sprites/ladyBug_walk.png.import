@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3hakw723xlq"
-path="res://.godot/imported/ladyBug_walk.png-c0d9cc88dc0611e868649f05cb7e7528.ctex"
+path="res://.godot/imported/ladyBug_walk.png-da862a093d4b7e301ae8301006c7d932.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/ladyBug_walk.png"
-dest_files=["res://.godot/imported/ladyBug_walk.png-c0d9cc88dc0611e868649f05cb7e7528.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/ladyBug_walk.png"
+dest_files=["res://.godot/imported/ladyBug_walk.png-da862a093d4b7e301ae8301006c7d932.ctex"]
 
 [params]
 

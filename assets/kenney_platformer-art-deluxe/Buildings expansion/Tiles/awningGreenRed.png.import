@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d66gc6fca0o5"
-path="res://.godot/imported/awningGreenRed.png-702cf89d3d447aad6d30aef8ddaa4ef0.ctex"
+path="res://.godot/imported/awningGreenRed.png-b93a52bdaa391b27b9d84119580394be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/awningGreenRed.png"
-dest_files=["res://.godot/imported/awningGreenRed.png-702cf89d3d447aad6d30aef8ddaa4ef0.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/awningGreenRed.png"
+dest_files=["res://.godot/imported/awningGreenRed.png-b93a52bdaa391b27b9d84119580394be.ctex"]
 
 [params]
 

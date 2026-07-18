@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvv7ughyyjj0r"
-path="res://.godot/imported/hud_heartHalf.png-805b7f67bd80bfd67636c141bb095cb1.ctex"
+path="res://.godot/imported/hud_heartHalf.png-382a3efab30574fe75be01934960e9b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/HUD/hud_heartHalf.png"
-dest_files=["res://.godot/imported/hud_heartHalf.png-805b7f67bd80bfd67636c141bb095cb1.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/HUD/hud_heartHalf.png"
+dest_files=["res://.godot/imported/hud_heartHalf.png-382a3efab30574fe75be01934960e9b2.ctex"]
 
 [params]
 

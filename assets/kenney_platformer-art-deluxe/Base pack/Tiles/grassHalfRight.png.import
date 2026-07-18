@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpvaua2sq1uvx"
-path="res://.godot/imported/grassHalfRight.png-ce6ec11007ed594d41b6e1447a0529d8.ctex"
+path="res://.godot/imported/grassHalfRight.png-1db9ae895a459db36096f734e57ea025.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/grassHalfRight.png"
-dest_files=["res://.godot/imported/grassHalfRight.png-ce6ec11007ed594d41b6e1447a0529d8.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/grassHalfRight.png"
+dest_files=["res://.godot/imported/grassHalfRight.png-1db9ae895a459db36096f734e57ea025.ctex"]
 
 [params]
 

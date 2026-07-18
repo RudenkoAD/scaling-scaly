@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://km6x33f7rxnn"
-path="res://.godot/imported/slimeBlock_dead.png-7609b43a0bfe0078e7359567bcbb6df6.ctex"
+path="res://.godot/imported/slimeBlock_dead.png-5ad2e85fd5ba6db782c39b2c3e10beb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/slimeBlock_dead.png"
-dest_files=["res://.godot/imported/slimeBlock_dead.png-7609b43a0bfe0078e7359567bcbb6df6.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/slimeBlock_dead.png"
+dest_files=["res://.godot/imported/slimeBlock_dead.png-5ad2e85fd5ba6db782c39b2c3e10beb7.ctex"]
 
 [params]
 

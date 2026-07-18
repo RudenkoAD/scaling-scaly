@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddsnj7uucg4bj"
-path="res://.godot/imported/houseBeigeTopRight.png-4f2315f6c267e04f9cb0dc4d3afadabc.ctex"
+path="res://.godot/imported/houseBeigeTopRight.png-da1d7ff57b8b1246ce724c555ccae3b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/houseBeigeTopRight.png"
-dest_files=["res://.godot/imported/houseBeigeTopRight.png-4f2315f6c267e04f9cb0dc4d3afadabc.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/houseBeigeTopRight.png"
+dest_files=["res://.godot/imported/houseBeigeTopRight.png-da1d7ff57b8b1246ce724c555ccae3b6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxxgnq7lb3qfp"
-path="res://.godot/imported/fishDead.png-f5689c6e85ee4903795c18e95574d000.ctex"
+path="res://.godot/imported/fishDead.png-fc53de8c75912864135228b1e9ec272f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/fishDead.png"
-dest_files=["res://.godot/imported/fishDead.png-f5689c6e85ee4903795c18e95574d000.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/fishDead.png"
+dest_files=["res://.godot/imported/fishDead.png-fc53de8c75912864135228b1e9ec272f.ctex"]
 
 [params]
 

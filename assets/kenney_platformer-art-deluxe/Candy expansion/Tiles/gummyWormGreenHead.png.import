@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du66h1wub74c"
-path="res://.godot/imported/gummyWormGreenHead.png-2454ef616a52bc1040964dd710b759b9.ctex"
+path="res://.godot/imported/gummyWormGreenHead.png-7e2d5afe29a7ecabf8d006f7d1915a76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/gummyWormGreenHead.png"
-dest_files=["res://.godot/imported/gummyWormGreenHead.png-2454ef616a52bc1040964dd710b759b9.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/gummyWormGreenHead.png"
+dest_files=["res://.godot/imported/gummyWormGreenHead.png-7e2d5afe29a7ecabf8d006f7d1915a76.ctex"]
 
 [params]
 

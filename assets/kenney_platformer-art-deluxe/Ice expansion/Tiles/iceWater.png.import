@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vymmyfktjxm2"
-path="res://.godot/imported/iceWater.png-1638b13dbac5c940ad1c7f7a0a70451d.ctex"
+path="res://.godot/imported/iceWater.png-2e67f42f41f252576e4042f786ff20dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/iceWater.png"
-dest_files=["res://.godot/imported/iceWater.png-1638b13dbac5c940ad1c7f7a0a70451d.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/iceWater.png"
+dest_files=["res://.godot/imported/iceWater.png-2e67f42f41f252576e4042f786ff20dd.ctex"]
 
 [params]
 

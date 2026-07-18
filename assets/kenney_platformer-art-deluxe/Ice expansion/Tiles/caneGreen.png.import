@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwok2bgq070gl"
-path="res://.godot/imported/caneGreen.png-5118aba477916665e89be7b8a64035e0.ctex"
+path="res://.godot/imported/caneGreen.png-d68f8d3a94fdbb8bf8a0e67b04aff858.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/caneGreen.png"
-dest_files=["res://.godot/imported/caneGreen.png-5118aba477916665e89be7b8a64035e0.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/caneGreen.png"
+dest_files=["res://.godot/imported/caneGreen.png-d68f8d3a94fdbb8bf8a0e67b04aff858.ctex"]
 
 [params]
 

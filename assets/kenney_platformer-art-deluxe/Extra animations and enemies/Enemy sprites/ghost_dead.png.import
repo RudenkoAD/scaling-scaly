@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0ocpirgff6k5"
-path="res://.godot/imported/ghost_dead.png-436dfee3834874e31eb433f674b62371.ctex"
+path="res://.godot/imported/ghost_dead.png-9477f7778e144e087c6d5076e921065a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/ghost_dead.png"
-dest_files=["res://.godot/imported/ghost_dead.png-436dfee3834874e31eb433f674b62371.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/ghost_dead.png"
+dest_files=["res://.godot/imported/ghost_dead.png-9477f7778e144e087c6d5076e921065a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3uhr0cjrsnep"
-path="res://.godot/imported/sample.png-c049e2bfb08104f0ac73b37e514e2dfe.ctex"
+path="res://.godot/imported/sample.png-4eaf6a1ee6965f6124e087eaa0620651.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/sample.png"
-dest_files=["res://.godot/imported/sample.png-c049e2bfb08104f0ac73b37e514e2dfe.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/sample.png"
+dest_files=["res://.godot/imported/sample.png-4eaf6a1ee6965f6124e087eaa0620651.ctex"]
 
 [params]
 

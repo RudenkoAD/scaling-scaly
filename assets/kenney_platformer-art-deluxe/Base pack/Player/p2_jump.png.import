@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfvqiqy4v8jhn"
-path="res://.godot/imported/p2_jump.png-a2a915bb8194266a573c8217edc48c46.ctex"
+path="res://.godot/imported/p2_jump.png-65a615af8043a81b043ec4ff5c917a88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Player/p2_jump.png"
-dest_files=["res://.godot/imported/p2_jump.png-a2a915bb8194266a573c8217edc48c46.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Player/p2_jump.png"
+dest_files=["res://.godot/imported/p2_jump.png-65a615af8043a81b043ec4ff5c917a88.ctex"]
 
 [params]
 

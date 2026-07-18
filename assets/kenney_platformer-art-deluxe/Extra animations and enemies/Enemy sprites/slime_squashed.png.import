@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oqdf2ehdeiow"
-path="res://.godot/imported/slime_squashed.png-7ef17c7677b3934e9c6b8141f60b23d6.ctex"
+path="res://.godot/imported/slime_squashed.png-bebb132e74cc37c593795b435f2dbf02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/slime_squashed.png"
-dest_files=["res://.godot/imported/slime_squashed.png-7ef17c7677b3934e9c6b8141f60b23d6.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/slime_squashed.png"
+dest_files=["res://.godot/imported/slime_squashed.png-bebb132e74cc37c593795b435f2dbf02.ctex"]
 
 [params]
 

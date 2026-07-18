@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8nsp5pjqvchn"
-path="res://.godot/imported/hud_gem_red.png-6b8a8b21b3e06ea35d5495b203a11090.ctex"
+path="res://.godot/imported/hud_gem_red.png-88d0f8695a9fff36c7b663488897c8b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/HUD/hud_gem_red.png"
-dest_files=["res://.godot/imported/hud_gem_red.png-6b8a8b21b3e06ea35d5495b203a11090.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/HUD/hud_gem_red.png"
+dest_files=["res://.godot/imported/hud_gem_red.png-88d0f8695a9fff36c7b663488897c8b8.ctex"]
 
 [params]
 

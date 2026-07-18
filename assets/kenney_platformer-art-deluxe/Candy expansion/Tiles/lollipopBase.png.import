@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x461nhrnrval"
-path="res://.godot/imported/lollipopBase.png-5bc02cae88908da5b1c8f2f174e44a56.ctex"
+path="res://.godot/imported/lollipopBase.png-de70b69f58ccb34544fbdc3c6bd524e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/lollipopBase.png"
-dest_files=["res://.godot/imported/lollipopBase.png-5bc02cae88908da5b1c8f2f174e44a56.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/lollipopBase.png"
+dest_files=["res://.godot/imported/lollipopBase.png-de70b69f58ccb34544fbdc3c6bd524e5.ctex"]
 
 [params]
 

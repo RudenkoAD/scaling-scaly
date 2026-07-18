@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cffah78mdlbg"
-path="res://.godot/imported/raygunBig.png-519b07a40264720c113545bd3f463775.ctex"
+path="res://.godot/imported/raygunBig.png-7ff0adb7976c39d3c8260d3d765db7bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/raygunBig.png"
-dest_files=["res://.godot/imported/raygunBig.png-519b07a40264720c113545bd3f463775.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/raygunBig.png"
+dest_files=["res://.godot/imported/raygunBig.png-7ff0adb7976c39d3c8260d3d765db7bd.ctex"]
 
 [params]
 

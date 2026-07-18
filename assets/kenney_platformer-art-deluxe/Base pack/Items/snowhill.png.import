@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bshye31570naa"
-path="res://.godot/imported/snowhill.png-9fb9f6dbe182dcf7e6028561c5038fb6.ctex"
+path="res://.godot/imported/snowhill.png-3880f4fef76b329992590e90357af139.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/snowhill.png"
-dest_files=["res://.godot/imported/snowhill.png-9fb9f6dbe182dcf7e6028561c5038fb6.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/snowhill.png"
+dest_files=["res://.godot/imported/snowhill.png-3880f4fef76b329992590e90357af139.ctex"]
 
 [params]
 

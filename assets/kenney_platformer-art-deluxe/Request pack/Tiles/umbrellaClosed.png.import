@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh36o604qcfcf"
-path="res://.godot/imported/umbrellaClosed.png-349de0b6d89ba49b71433df5a1732598.ctex"
+path="res://.godot/imported/umbrellaClosed.png-45bfa4b4a8783f2543c7e8043a84ad80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/umbrellaClosed.png"
-dest_files=["res://.godot/imported/umbrellaClosed.png-349de0b6d89ba49b71433df5a1732598.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/umbrellaClosed.png"
+dest_files=["res://.godot/imported/umbrellaClosed.png-45bfa4b4a8783f2543c7e8043a84ad80.ctex"]
 
 [params]
 

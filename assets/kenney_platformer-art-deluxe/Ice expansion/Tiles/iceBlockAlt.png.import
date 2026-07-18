@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxu3d6h2ge7cj"
-path="res://.godot/imported/iceBlockAlt.png-25b2107143f375ea15febb0480745a68.ctex"
+path="res://.godot/imported/iceBlockAlt.png-b7659444bdd457970ee19c13cac5d724.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/iceBlockAlt.png"
-dest_files=["res://.godot/imported/iceBlockAlt.png-25b2107143f375ea15febb0480745a68.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/iceBlockAlt.png"
+dest_files=["res://.godot/imported/iceBlockAlt.png-b7659444bdd457970ee19c13cac5d724.ctex"]
 
 [params]
 

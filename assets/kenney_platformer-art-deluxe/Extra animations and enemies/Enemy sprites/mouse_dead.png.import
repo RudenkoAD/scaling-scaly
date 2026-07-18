@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chsy2qk5p68ya"
-path="res://.godot/imported/mouse_dead.png-e64d22d050c181277b2c2097abf14678.ctex"
+path="res://.godot/imported/mouse_dead.png-f9c0449878f367cbb4eec7c8033188c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/mouse_dead.png"
-dest_files=["res://.godot/imported/mouse_dead.png-e64d22d050c181277b2c2097abf14678.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/mouse_dead.png"
+dest_files=["res://.godot/imported/mouse_dead.png-f9c0449878f367cbb4eec7c8033188c8.ctex"]
 
 [params]
 

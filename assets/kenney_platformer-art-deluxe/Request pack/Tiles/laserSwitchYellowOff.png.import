@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gjqgkunj821y"
-path="res://.godot/imported/laserSwitchYellowOff.png-b7cd5df6380ab8d4deb3eb64c087bd94.ctex"
+path="res://.godot/imported/laserSwitchYellowOff.png-b891ab9fd398a60104323111a231f41e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/laserSwitchYellowOff.png"
-dest_files=["res://.godot/imported/laserSwitchYellowOff.png-b7cd5df6380ab8d4deb3eb64c087bd94.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/laserSwitchYellowOff.png"
+dest_files=["res://.godot/imported/laserSwitchYellowOff.png-b891ab9fd398a60104323111a231f41e.ctex"]
 
 [params]
 

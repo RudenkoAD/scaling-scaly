@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gvf8wtbvhodp"
-path="res://.godot/imported/snowLedgeRight.png-773a9e538f9dca141b41127c65d7fe8d.ctex"
+path="res://.godot/imported/snowLedgeRight.png-486571311f822a96c51fb5a52199e368.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/snowLedgeRight.png"
-dest_files=["res://.godot/imported/snowLedgeRight.png-773a9e538f9dca141b41127c65d7fe8d.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/snowLedgeRight.png"
+dest_files=["res://.godot/imported/snowLedgeRight.png-486571311f822a96c51fb5a52199e368.ctex"]
 
 [params]
 

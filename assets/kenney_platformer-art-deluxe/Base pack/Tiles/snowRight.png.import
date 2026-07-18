@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqbak7ker71re"
-path="res://.godot/imported/snowRight.png-b880d1909c1590cbb8df7a0c0e6137b9.ctex"
+path="res://.godot/imported/snowRight.png-01a7c618e13eec7502b200559b758f8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/snowRight.png"
-dest_files=["res://.godot/imported/snowRight.png-b880d1909c1590cbb8df7a0c0e6137b9.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/snowRight.png"
+dest_files=["res://.godot/imported/snowRight.png-01a7c618e13eec7502b200559b758f8e.ctex"]
 
 [params]
 

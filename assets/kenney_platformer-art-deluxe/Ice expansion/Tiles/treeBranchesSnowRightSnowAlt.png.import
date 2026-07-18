@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dykfwqmhmev0e"
-path="res://.godot/imported/treeBranchesSnowRightSnowAlt.png-8aadd20a1a255670e6d66dad143c1f23.ctex"
+path="res://.godot/imported/treeBranchesSnowRightSnowAlt.png-e69feb85691195ebd690ae8465c42212.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/treeBranchesSnowRightSnowAlt.png"
-dest_files=["res://.godot/imported/treeBranchesSnowRightSnowAlt.png-8aadd20a1a255670e6d66dad143c1f23.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/treeBranchesSnowRightSnowAlt.png"
+dest_files=["res://.godot/imported/treeBranchesSnowRightSnowAlt.png-e69feb85691195ebd690ae8465c42212.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmss42srj1hx1"
-path="res://.godot/imported/shroomRedLeft.png-41309affebecdab143e4318af516c4f3.ctex"
+path="res://.godot/imported/shroomRedLeft.png-20881605827f707456c3719d4fd35d09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mushroom expansion/PNG/shroomRedLeft.png"
-dest_files=["res://.godot/imported/shroomRedLeft.png-41309affebecdab143e4318af516c4f3.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Mushroom expansion/PNG/shroomRedLeft.png"
+dest_files=["res://.godot/imported/shroomRedLeft.png-20881605827f707456c3719d4fd35d09.ctex"]
 
 [params]
 

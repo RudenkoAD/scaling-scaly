@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtufomrvis6r7"
-path="res://.godot/imported/stemBaseAlt.png-efb15df575aa7cd95dfce6dbed95c33b.ctex"
+path="res://.godot/imported/stemBaseAlt.png-9830328d63d90900d7829f34da1627f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mushroom expansion/PNG/stemBaseAlt.png"
-dest_files=["res://.godot/imported/stemBaseAlt.png-efb15df575aa7cd95dfce6dbed95c33b.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Mushroom expansion/PNG/stemBaseAlt.png"
+dest_files=["res://.godot/imported/stemBaseAlt.png-9830328d63d90900d7829f34da1627f7.ctex"]
 
 [params]
 

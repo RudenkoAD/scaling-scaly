@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgdedmv3nbtjr"
-path="res://.godot/imported/chain.png-eca7b4f7eae08671619e911cf51859b7.ctex"
+path="res://.godot/imported/chain.png-0b7a8a5d4c96a02ce7ae723c93cf28eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/chain.png"
-dest_files=["res://.godot/imported/chain.png-eca7b4f7eae08671619e911cf51859b7.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/chain.png"
+dest_files=["res://.godot/imported/chain.png-0b7a8a5d4c96a02ce7ae723c93cf28eb.ctex"]
 
 [params]
 

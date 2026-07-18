@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfsuw7uglsbpy"
-path="res://.godot/imported/bg_desert.png-39db3a7a0d0e41099609039dac30dd29.ctex"
+path="res://.godot/imported/bg_desert.png-036e27be6e097104221c487729f1d9be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mushroom expansion/Backgrounds/bg_desert.png"
-dest_files=["res://.godot/imported/bg_desert.png-39db3a7a0d0e41099609039dac30dd29.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Mushroom expansion/Backgrounds/bg_desert.png"
+dest_files=["res://.godot/imported/bg_desert.png-036e27be6e097104221c487729f1d9be.ctex"]
 
 [params]
 

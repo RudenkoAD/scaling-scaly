@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clnwnmciqm0c3"
-path="res://.godot/imported/p1_walk04.png-60dbc4c78dad6031d5876f228dbfe1cf.ctex"
+path="res://.godot/imported/p1_walk04.png-e9e62c003e0bea005319631bb4331b3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Player/p1_walk/PNG/p1_walk04.png"
-dest_files=["res://.godot/imported/p1_walk04.png-60dbc4c78dad6031d5876f228dbfe1cf.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Player/p1_walk/PNG/p1_walk04.png"
+dest_files=["res://.godot/imported/p1_walk04.png-e9e62c003e0bea005319631bb4331b3a.ctex"]
 
 [params]
 

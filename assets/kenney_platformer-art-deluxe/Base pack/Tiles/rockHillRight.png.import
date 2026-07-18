@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs51myxdmogb2"
-path="res://.godot/imported/rockHillRight.png-bc906224c560e038044f23d660a9999c.ctex"
+path="res://.godot/imported/rockHillRight.png-9b25308383ccea81350a1055e689070b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/rockHillRight.png"
-dest_files=["res://.godot/imported/rockHillRight.png-bc906224c560e038044f23d660a9999c.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/rockHillRight.png"
+dest_files=["res://.godot/imported/rockHillRight.png-9b25308383ccea81350a1055e689070b.ctex"]
 
 [params]
 

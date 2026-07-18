@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dslyvbmhv5sxl"
-path="res://.godot/imported/switchRight.png-3c418efa1723cdff8f87e201e6ba628a.ctex"
+path="res://.godot/imported/switchRight.png-608c4e74220731f879269e08ca816237.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/switchRight.png"
-dest_files=["res://.godot/imported/switchRight.png-3c418efa1723cdff8f87e201e6ba628a.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/switchRight.png"
+dest_files=["res://.godot/imported/switchRight.png-608c4e74220731f879269e08ca816237.ctex"]
 
 [params]
 

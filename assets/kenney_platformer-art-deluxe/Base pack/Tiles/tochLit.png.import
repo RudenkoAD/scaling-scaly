@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byd3ns88ka54h"
-path="res://.godot/imported/tochLit.png-5e4470d98ce652b30c97c9e2a32f741e.ctex"
+path="res://.godot/imported/tochLit.png-8410cfc9f126970f5d7ea81aa4a52999.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/tochLit.png"
-dest_files=["res://.godot/imported/tochLit.png-5e4470d98ce652b30c97c9e2a32f741e.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/tochLit.png"
+dest_files=["res://.godot/imported/tochLit.png-8410cfc9f126970f5d7ea81aa4a52999.ctex"]
 
 [params]
 

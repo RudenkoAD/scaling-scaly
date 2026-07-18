@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkxm1vr566xf4"
-path="res://.godot/imported/enemies_spritesheet.png-ce1e3dec98ea4af96b5d07cc4ac9894e.ctex"
+path="res://.godot/imported/enemies_spritesheet.png-b324a72ce3a9fbef912d837935b941f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/enemies_spritesheet.png"
-dest_files=["res://.godot/imported/enemies_spritesheet.png-ce1e3dec98ea4af96b5d07cc4ac9894e.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/enemies_spritesheet.png"
+dest_files=["res://.godot/imported/enemies_spritesheet.png-b324a72ce3a9fbef912d837935b941f0.ctex"]
 
 [params]
 

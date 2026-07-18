@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4lcet0hvavf4"
-path="res://.godot/imported/metalCenter.png-bcdb1a5dd925a49a2b792972468e97ec.ctex"
+path="res://.godot/imported/metalCenter.png-89be2fda64acdaa738e75c15efa1b89c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/metalCenter.png"
-dest_files=["res://.godot/imported/metalCenter.png-bcdb1a5dd925a49a2b792972468e97ec.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/metalCenter.png"
+dest_files=["res://.godot/imported/metalCenter.png-89be2fda64acdaa738e75c15efa1b89c.ctex"]
 
 [params]
 

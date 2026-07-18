@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh7c2s8d2g2r4"
-path="res://.godot/imported/hillCaneRedTop.png-f092f2426e7b3b66cde460a549e8be9d.ctex"
+path="res://.godot/imported/hillCaneRedTop.png-7d387c7591001e53539b2ce3a47f6422.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/hillCaneRedTop.png"
-dest_files=["res://.godot/imported/hillCaneRedTop.png-f092f2426e7b3b66cde460a549e8be9d.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/hillCaneRedTop.png"
+dest_files=["res://.godot/imported/hillCaneRedTop.png-7d387c7591001e53539b2ce3a47f6422.ctex"]
 
 [params]
 

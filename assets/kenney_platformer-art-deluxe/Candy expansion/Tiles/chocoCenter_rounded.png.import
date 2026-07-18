@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df5nf7bvqmky8"
-path="res://.godot/imported/chocoCenter_rounded.png-af5d74ec4c1935cdc9f0ac3f366faa67.ctex"
+path="res://.godot/imported/chocoCenter_rounded.png-5392c2176c553a5480fa67dd431a7081.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/chocoCenter_rounded.png"
-dest_files=["res://.godot/imported/chocoCenter_rounded.png-af5d74ec4c1935cdc9f0ac3f366faa67.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/chocoCenter_rounded.png"
+dest_files=["res://.godot/imported/chocoCenter_rounded.png-5392c2176c553a5480fa67dd431a7081.ctex"]
 
 [params]
 

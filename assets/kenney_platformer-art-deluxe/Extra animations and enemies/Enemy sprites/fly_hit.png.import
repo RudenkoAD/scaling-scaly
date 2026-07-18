@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://osk7p20cbopn"
-path="res://.godot/imported/fly_hit.png-f02fb4fe026006c125c21ddc2eeb0c35.ctex"
+path="res://.godot/imported/fly_hit.png-15197e421f7d3b9074a605b6bec68568.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/fly_hit.png"
-dest_files=["res://.godot/imported/fly_hit.png-f02fb4fe026006c125c21ddc2eeb0c35.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/fly_hit.png"
+dest_files=["res://.godot/imported/fly_hit.png-15197e421f7d3b9074a605b6bec68568.ctex"]
 
 [params]
 

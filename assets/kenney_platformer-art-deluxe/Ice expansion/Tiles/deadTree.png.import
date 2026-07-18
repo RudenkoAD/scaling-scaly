@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca3bbikcfesf"
-path="res://.godot/imported/deadTree.png-bcc2c5b63e6cbfd57ae9fb2e03f056eb.ctex"
+path="res://.godot/imported/deadTree.png-22df71f71bf29dbf1b4a6872816c452a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/deadTree.png"
-dest_files=["res://.godot/imported/deadTree.png-bcc2c5b63e6cbfd57ae9fb2e03f056eb.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/deadTree.png"
+dest_files=["res://.godot/imported/deadTree.png-22df71f71bf29dbf1b4a6872816c452a.ctex"]
 
 [params]
 

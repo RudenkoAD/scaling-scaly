@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df1ov5ip4e75w"
-path="res://.godot/imported/spider_walk2.png-84ed0f69b55133b3c6231808ac75b325.ctex"
+path="res://.godot/imported/spider_walk2.png-fbddac92369b2d4acc4eaca29bd892a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/spider_walk2.png"
-dest_files=["res://.godot/imported/spider_walk2.png-84ed0f69b55133b3c6231808ac75b325.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/spider_walk2.png"
+dest_files=["res://.godot/imported/spider_walk2.png-fbddac92369b2d4acc4eaca29bd892a7.ctex"]
 
 [params]
 

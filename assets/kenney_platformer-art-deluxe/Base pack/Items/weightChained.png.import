@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ivmgrnk1y4r6"
-path="res://.godot/imported/weightChained.png-1f4f16ec6702bcf248605ba4c7af66d6.ctex"
+path="res://.godot/imported/weightChained.png-4f5b249cd1c4f370cbb9795fe62391ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/weightChained.png"
-dest_files=["res://.godot/imported/weightChained.png-1f4f16ec6702bcf248605ba4c7af66d6.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/weightChained.png"
+dest_files=["res://.godot/imported/weightChained.png-4f5b249cd1c4f370cbb9795fe62391ba.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh67hvd463mu7"
-path="res://.godot/imported/spider_hit.png-32531ab1f40d45c8cbe285402a7e17b4.ctex"
+path="res://.godot/imported/spider_hit.png-bc124f51bf22061cec7003ba676fa12e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/spider_hit.png"
-dest_files=["res://.godot/imported/spider_hit.png-32531ab1f40d45c8cbe285402a7e17b4.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/spider_hit.png"
+dest_files=["res://.godot/imported/spider_hit.png-bc124f51bf22061cec7003ba676fa12e.ctex"]
 
 [params]
 

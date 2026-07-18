@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4os85jktglrv"
-path="res://.godot/imported/rockAlt.png-ab114ee9c0ff89690c131da9b3ca9461.ctex"
+path="res://.godot/imported/rockAlt.png-865bcbc79b01232bea01e0210633d841.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/rockAlt.png"
-dest_files=["res://.godot/imported/rockAlt.png-ab114ee9c0ff89690c131da9b3ca9461.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/rockAlt.png"
+dest_files=["res://.godot/imported/rockAlt.png-865bcbc79b01232bea01e0210633d841.ctex"]
 
 [params]
 

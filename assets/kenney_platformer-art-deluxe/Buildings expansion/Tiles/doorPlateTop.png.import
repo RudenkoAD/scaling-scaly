@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwuv5ndiu6nl2"
-path="res://.godot/imported/doorPlateTop.png-2641848d6af9ab2e2b441c01f1e6ca67.ctex"
+path="res://.godot/imported/doorPlateTop.png-50933cb9a13c0c7a28f26c4b1d3ea2bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/doorPlateTop.png"
-dest_files=["res://.godot/imported/doorPlateTop.png-2641848d6af9ab2e2b441c01f1e6ca67.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/doorPlateTop.png"
+dest_files=["res://.godot/imported/doorPlateTop.png-50933cb9a13c0c7a28f26c4b1d3ea2bb.ctex"]
 
 [params]
 

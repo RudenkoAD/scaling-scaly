@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dku6o2vpi64kh"
-path="res://.godot/imported/plantAlt.png-d5e2f0cb301e50edcab341004c4e91f5.ctex"
+path="res://.godot/imported/plantAlt.png-2c5181af42cd1fdbbe64fdd7446c2833.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/plantAlt.png"
-dest_files=["res://.godot/imported/plantAlt.png-d5e2f0cb301e50edcab341004c4e91f5.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/plantAlt.png"
+dest_files=["res://.godot/imported/plantAlt.png-2c5181af42cd1fdbbe64fdd7446c2833.ctex"]
 
 [params]
 

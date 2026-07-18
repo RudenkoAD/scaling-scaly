@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg5qxlm80gyix"
-path="res://.godot/imported/grassBlock_hit.png-edb7e2610fc4866fe3ea74be9df05db2.ctex"
+path="res://.godot/imported/grassBlock_hit.png-63e7b92c4b6f1c137233b8f3739b319f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/grassBlock_hit.png"
-dest_files=["res://.godot/imported/grassBlock_hit.png-edb7e2610fc4866fe3ea74be9df05db2.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/grassBlock_hit.png"
+dest_files=["res://.godot/imported/grassBlock_hit.png-63e7b92c4b6f1c137233b8f3739b319f.ctex"]
 
 [params]
 

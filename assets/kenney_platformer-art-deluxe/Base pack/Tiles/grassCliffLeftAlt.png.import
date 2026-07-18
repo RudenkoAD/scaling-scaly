@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tenvux104bfm"
-path="res://.godot/imported/grassCliffLeftAlt.png-76c803be8163e750609bb2c92afd28c9.ctex"
+path="res://.godot/imported/grassCliffLeftAlt.png-f9b313f08071642b8bb353da50b74307.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/grassCliffLeftAlt.png"
-dest_files=["res://.godot/imported/grassCliffLeftAlt.png-76c803be8163e750609bb2c92afd28c9.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/grassCliffLeftAlt.png"
+dest_files=["res://.godot/imported/grassCliffLeftAlt.png-f9b313f08071642b8bb353da50b74307.ctex"]
 
 [params]
 

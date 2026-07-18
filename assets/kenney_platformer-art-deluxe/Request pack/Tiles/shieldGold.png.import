@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhxnw20j3ye7h"
-path="res://.godot/imported/shieldGold.png-72e874871cdab19d0457d327ab0c80d1.ctex"
+path="res://.godot/imported/shieldGold.png-85cc61287885373c2d83b78efe0ed1f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/shieldGold.png"
-dest_files=["res://.godot/imported/shieldGold.png-72e874871cdab19d0457d327ab0c80d1.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/shieldGold.png"
+dest_files=["res://.godot/imported/shieldGold.png-85cc61287885373c2d83b78efe0ed1f0.ctex"]
 
 [params]
 

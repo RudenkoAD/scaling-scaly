@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtclkbpcbk7e"
-path="res://.godot/imported/beamBoltsNarrow.png-38f24f4b2b992db9fb54cf7ff737b9bc.ctex"
+path="res://.godot/imported/beamBoltsNarrow.png-add9ae3fd6c312968733864a9090b05a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/beamBoltsNarrow.png"
-dest_files=["res://.godot/imported/beamBoltsNarrow.png-38f24f4b2b992db9fb54cf7ff737b9bc.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/beamBoltsNarrow.png"
+dest_files=["res://.godot/imported/beamBoltsNarrow.png-add9ae3fd6c312968733864a9090b05a.ctex"]
 
 [params]
 

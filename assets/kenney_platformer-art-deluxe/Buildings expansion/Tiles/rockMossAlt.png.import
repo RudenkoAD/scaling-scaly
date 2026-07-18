@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhcjkoodqavi2"
-path="res://.godot/imported/rockMossAlt.png-50416ce397a20bd85aba36feb96b3450.ctex"
+path="res://.godot/imported/rockMossAlt.png-cafd74bd5ce3776e1845be2af0a0c8d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/rockMossAlt.png"
-dest_files=["res://.godot/imported/rockMossAlt.png-50416ce397a20bd85aba36feb96b3450.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/rockMossAlt.png"
+dest_files=["res://.godot/imported/rockMossAlt.png-cafd74bd5ce3776e1845be2af0a0c8d1.ctex"]
 
 [params]
 

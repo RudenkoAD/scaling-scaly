@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2iukp74jdpxt"
-path="res://.godot/imported/spinner.png-ef4f1caede9d47878eb23cf49518346b.ctex"
+path="res://.godot/imported/spinner.png-a6d6bbc4b2e1d41c6112a1edc2480978.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/spinner.png"
-dest_files=["res://.godot/imported/spinner.png-ef4f1caede9d47878eb23cf49518346b.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/spinner.png"
+dest_files=["res://.godot/imported/spinner.png-a6d6bbc4b2e1d41c6112a1edc2480978.ctex"]
 
 [params]
 

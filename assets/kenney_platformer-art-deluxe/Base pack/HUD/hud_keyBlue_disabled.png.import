@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsbmspaloig0y"
-path="res://.godot/imported/hud_keyBlue_disabled.png-5a4bd2a0e6f1b93da4ccccf8128d0938.ctex"
+path="res://.godot/imported/hud_keyBlue_disabled.png-25b13f9e3ab933f50d8d9d63457b7c5c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/HUD/hud_keyBlue_disabled.png"
-dest_files=["res://.godot/imported/hud_keyBlue_disabled.png-5a4bd2a0e6f1b93da4ccccf8128d0938.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/HUD/hud_keyBlue_disabled.png"
+dest_files=["res://.godot/imported/hud_keyBlue_disabled.png-25b13f9e3ab933f50d8d9d63457b7c5c.ctex"]
 
 [params]
 

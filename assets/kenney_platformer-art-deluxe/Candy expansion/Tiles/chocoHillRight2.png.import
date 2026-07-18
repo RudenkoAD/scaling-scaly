@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckhs43jd7m6ru"
-path="res://.godot/imported/chocoHillRight2.png-cb4105175cb2a9216a2b16509debb072.ctex"
+path="res://.godot/imported/chocoHillRight2.png-8221863eb097a925af011a326763f435.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Candy expansion/Tiles/chocoHillRight2.png"
-dest_files=["res://.godot/imported/chocoHillRight2.png-cb4105175cb2a9216a2b16509debb072.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Candy expansion/Tiles/chocoHillRight2.png"
+dest_files=["res://.godot/imported/chocoHillRight2.png-8221863eb097a925af011a326763f435.ctex"]
 
 [params]
 

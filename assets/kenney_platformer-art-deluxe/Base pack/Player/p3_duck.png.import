@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbqcb1i3tq8f"
-path="res://.godot/imported/p3_duck.png-efd845d1189bed435b3b83579aa5b2ff.ctex"
+path="res://.godot/imported/p3_duck.png-d672f945f803a0756cee1c3313d522d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Player/p3_duck.png"
-dest_files=["res://.godot/imported/p3_duck.png-efd845d1189bed435b3b83579aa5b2ff.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Player/p3_duck.png"
+dest_files=["res://.godot/imported/p3_duck.png-d672f945f803a0756cee1c3313d522d5.ctex"]
 
 [params]
 

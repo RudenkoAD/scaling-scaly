@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di0gtd4adm2re"
-path="res://.godot/imported/fishGreen.png-0e9542e5e72d36287d04772b29ecc96d.ctex"
+path="res://.godot/imported/fishGreen.png-7ff400b1185cc4e2d54cb4da5d124d75.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/fishGreen.png"
-dest_files=["res://.godot/imported/fishGreen.png-0e9542e5e72d36287d04772b29ecc96d.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/fishGreen.png"
+dest_files=["res://.godot/imported/fishGreen.png-7ff400b1185cc4e2d54cb4da5d124d75.ctex"]
 
 [params]
 

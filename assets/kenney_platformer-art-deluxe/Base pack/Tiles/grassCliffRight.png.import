@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8mws04wb6io6"
-path="res://.godot/imported/grassCliffRight.png-ea9d6f3beede9aa36ed897c2dad286df.ctex"
+path="res://.godot/imported/grassCliffRight.png-db82d1bf9f707ec0ea96a751f3e919e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/grassCliffRight.png"
-dest_files=["res://.godot/imported/grassCliffRight.png-ea9d6f3beede9aa36ed897c2dad286df.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/grassCliffRight.png"
+dest_files=["res://.godot/imported/grassCliffRight.png-db82d1bf9f707ec0ea96a751f3e919e6.ctex"]
 
 [params]
 

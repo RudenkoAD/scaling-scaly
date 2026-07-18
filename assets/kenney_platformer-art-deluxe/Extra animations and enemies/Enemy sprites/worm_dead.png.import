@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2lxru5lupibj"
-path="res://.godot/imported/worm_dead.png-d1a369b73f038021a7bbb5f336dba680.ctex"
+path="res://.godot/imported/worm_dead.png-128b78c050faf69b4490d2bcb09fdddb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/worm_dead.png"
-dest_files=["res://.godot/imported/worm_dead.png-d1a369b73f038021a7bbb5f336dba680.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/worm_dead.png"
+dest_files=["res://.godot/imported/worm_dead.png-128b78c050faf69b4490d2bcb09fdddb.ctex"]
 
 [params]
 

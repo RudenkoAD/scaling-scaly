@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvbbcupbwxe0c"
-path="res://.godot/imported/stoneRight.png-ea429c868667e650a303f3ae955971de.ctex"
+path="res://.godot/imported/stoneRight.png-fb23f47e92839df166a4cdc934296caa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/stoneRight.png"
-dest_files=["res://.godot/imported/stoneRight.png-ea429c868667e650a303f3ae955971de.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/stoneRight.png"
+dest_files=["res://.godot/imported/stoneRight.png-fb23f47e92839df166a4cdc934296caa.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://280cavm8jjk8"
-path="res://.godot/imported/snakeLava_hit.png-92d4b09d869efa248e0aacebe20bb450.ctex"
+path="res://.godot/imported/snakeLava_hit.png-3352fb56af1c26a7e6a175ebd9b46fd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/snakeLava_hit.png"
-dest_files=["res://.godot/imported/snakeLava_hit.png-92d4b09d869efa248e0aacebe20bb450.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/snakeLava_hit.png"
+dest_files=["res://.godot/imported/snakeLava_hit.png-3352fb56af1c26a7e6a175ebd9b46fd7.ctex"]
 
 [params]
 

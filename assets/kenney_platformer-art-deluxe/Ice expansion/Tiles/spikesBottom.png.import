@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctfi2x3obhtqr"
-path="res://.godot/imported/spikesBottom.png-5bf733cf09908c341b263f978b0d1f02.ctex"
+path="res://.godot/imported/spikesBottom.png-cbe80864872abe8630577a8cbb2efc05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/spikesBottom.png"
-dest_files=["res://.godot/imported/spikesBottom.png-5bf733cf09908c341b263f978b0d1f02.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/spikesBottom.png"
+dest_files=["res://.godot/imported/spikesBottom.png-cbe80864872abe8630577a8cbb2efc05.ctex"]
 
 [params]
 

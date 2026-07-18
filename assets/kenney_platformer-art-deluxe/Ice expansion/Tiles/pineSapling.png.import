@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doqmo3rjw35dk"
-path="res://.godot/imported/pineSapling.png-6d2c8fcccb0123e55ee554d66115f7b9.ctex"
+path="res://.godot/imported/pineSapling.png-d86642044101a9723380ea94549eeabb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Ice expansion/Tiles/pineSapling.png"
-dest_files=["res://.godot/imported/pineSapling.png-6d2c8fcccb0123e55ee554d66115f7b9.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Ice expansion/Tiles/pineSapling.png"
+dest_files=["res://.godot/imported/pineSapling.png-d86642044101a9723380ea94549eeabb.ctex"]
 
 [params]
 

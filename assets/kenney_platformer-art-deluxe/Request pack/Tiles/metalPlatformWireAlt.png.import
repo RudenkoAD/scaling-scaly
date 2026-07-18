@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx7nahj68rft0"
-path="res://.godot/imported/metalPlatformWireAlt.png-debac63b757bffcdfea55f4b8bd5f6c2.ctex"
+path="res://.godot/imported/metalPlatformWireAlt.png-5b74248f318b4d8829ab0821558cc8ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/metalPlatformWireAlt.png"
-dest_files=["res://.godot/imported/metalPlatformWireAlt.png-debac63b757bffcdfea55f4b8bd5f6c2.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/metalPlatformWireAlt.png"
+dest_files=["res://.godot/imported/metalPlatformWireAlt.png-5b74248f318b4d8829ab0821558cc8ed.ctex"]
 
 [params]
 

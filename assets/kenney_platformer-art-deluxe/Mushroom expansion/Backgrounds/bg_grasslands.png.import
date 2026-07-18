@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfvqftl7r4t"
-path="res://.godot/imported/bg_grasslands.png-9e114e482e5fdf5f769e87730007d531.ctex"
+path="res://.godot/imported/bg_grasslands.png-b9e840c519453fe4a86228508a4db48a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mushroom expansion/Backgrounds/bg_grasslands.png"
-dest_files=["res://.godot/imported/bg_grasslands.png-9e114e482e5fdf5f769e87730007d531.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Mushroom expansion/Backgrounds/bg_grasslands.png"
+dest_files=["res://.godot/imported/bg_grasslands.png-b9e840c519453fe4a86228508a4db48a.ctex"]
 
 [params]
 

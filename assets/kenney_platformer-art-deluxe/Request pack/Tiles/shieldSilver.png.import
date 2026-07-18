@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3mycy3ra80dp"
-path="res://.godot/imported/shieldSilver.png-e1b33302f473fcc8b36558668edc95a4.ctex"
+path="res://.godot/imported/shieldSilver.png-9b26bb9e03e728b40ab2b623a96c00af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Request pack/Tiles/shieldSilver.png"
-dest_files=["res://.godot/imported/shieldSilver.png-e1b33302f473fcc8b36558668edc95a4.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Request pack/Tiles/shieldSilver.png"
+dest_files=["res://.godot/imported/shieldSilver.png-9b26bb9e03e728b40ab2b623a96c00af.ctex"]
 
 [params]
 

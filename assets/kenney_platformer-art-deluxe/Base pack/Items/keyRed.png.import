@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://otqjt5kvl0ur"
-path="res://.godot/imported/keyRed.png-b41566bb50ab1c866b6e4a22b03f48ce.ctex"
+path="res://.godot/imported/keyRed.png-0e5a9f3e40e994efafa96d740b434926.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Items/keyRed.png"
-dest_files=["res://.godot/imported/keyRed.png-b41566bb50ab1c866b6e4a22b03f48ce.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Items/keyRed.png"
+dest_files=["res://.godot/imported/keyRed.png-0e5a9f3e40e994efafa96d740b434926.ctex"]
 
 [params]
 

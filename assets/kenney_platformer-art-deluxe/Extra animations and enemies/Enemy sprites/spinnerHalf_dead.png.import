@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg7bpdagyw5eg"
-path="res://.godot/imported/spinnerHalf_dead.png-f05bdc37442b39430c235e646e227d13.ctex"
+path="res://.godot/imported/spinnerHalf_dead.png-bdecd3b24cc355ad1fd0b015a4a04b71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Extra animations and enemies/Enemy sprites/spinnerHalf_dead.png"
-dest_files=["res://.godot/imported/spinnerHalf_dead.png-f05bdc37442b39430c235e646e227d13.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Extra animations and enemies/Enemy sprites/spinnerHalf_dead.png"
+dest_files=["res://.godot/imported/spinnerHalf_dead.png-bdecd3b24cc355ad1fd0b015a4a04b71.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d136s6fnnemq0"
-path="res://.godot/imported/slimeWalk2.png-6d43ef119d85df9ceb03cdf98667f665.ctex"
+path="res://.godot/imported/slimeWalk2.png-e474f758e90f1fb6cf6bbbbf23b3c6aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Enemies/slimeWalk2.png"
-dest_files=["res://.godot/imported/slimeWalk2.png-6d43ef119d85df9ceb03cdf98667f665.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Enemies/slimeWalk2.png"
+dest_files=["res://.godot/imported/slimeWalk2.png-e474f758e90f1fb6cf6bbbbf23b3c6aa.ctex"]
 
 [params]
 

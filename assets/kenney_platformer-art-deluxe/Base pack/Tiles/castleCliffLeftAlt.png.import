@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k6wxyl2188sa"
-path="res://.godot/imported/castleCliffLeftAlt.png-748e71a5003eec8cc77983335b0217a0.ctex"
+path="res://.godot/imported/castleCliffLeftAlt.png-ca64f9f1f0dd39249a1360fe5fdcc3ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/castleCliffLeftAlt.png"
-dest_files=["res://.godot/imported/castleCliffLeftAlt.png-748e71a5003eec8cc77983335b0217a0.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/castleCliffLeftAlt.png"
+dest_files=["res://.godot/imported/castleCliffLeftAlt.png-ca64f9f1f0dd39249a1360fe5fdcc3ce.ctex"]
 
 [params]
 

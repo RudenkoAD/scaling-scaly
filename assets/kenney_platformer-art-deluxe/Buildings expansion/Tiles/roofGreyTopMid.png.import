@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdv3v1gu738ts"
-path="res://.godot/imported/roofGreyTopMid.png-63cf06829bd5bcea14ec5cc63288e973.ctex"
+path="res://.godot/imported/roofGreyTopMid.png-4c54acd4a455d56268678bf94c925524.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Buildings expansion/Tiles/roofGreyTopMid.png"
-dest_files=["res://.godot/imported/roofGreyTopMid.png-63cf06829bd5bcea14ec5cc63288e973.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Buildings expansion/Tiles/roofGreyTopMid.png"
+dest_files=["res://.godot/imported/roofGreyTopMid.png-4c54acd4a455d56268678bf94c925524.ctex"]
 
 [params]
 

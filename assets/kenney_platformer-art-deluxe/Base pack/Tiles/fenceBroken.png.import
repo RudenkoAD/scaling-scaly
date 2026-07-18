@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3m8r50na2uf2"
-path="res://.godot/imported/fenceBroken.png-66a9cf38daf02144bcfae64bb0dd8180.ctex"
+path="res://.godot/imported/fenceBroken.png-c8c3a2f88549bed24834a7c459955b15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Base pack/Tiles/fenceBroken.png"
-dest_files=["res://.godot/imported/fenceBroken.png-66a9cf38daf02144bcfae64bb0dd8180.ctex"]
+source_file="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/fenceBroken.png"
+dest_files=["res://.godot/imported/fenceBroken.png-c8c3a2f88549bed24834a7c459955b15.ctex"]
 
 [params]
 
