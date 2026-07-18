@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cy5u4ks1anafa"]
+
+[ext_resource type="PackedScene" uid="uid://1pcap3ff5yyu" path="res://tiles/sticky_button.tscn" id="1_ocnov"]
+[ext_resource type="Texture2D" uid="uid://dyaxi1xe0vuiq" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/keyYellow.png" id="2_n8drr"]
+
+[node name="InteractiveTile" unique_id=671834983 instance=ExtResource("1_ocnov")]
+colour = 1
+
+[node name="Off" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="2" unique_id=1135150647]
+texture = ExtResource("2_n8drr")

@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://b8h0lwqub8xve"]
+
+[ext_resource type="PackedScene" uid="uid://c4qfolrvbfkpk" path="res://tiles/loose_button.tscn" id="1_u6wj3"]
+[ext_resource type="Texture2D" uid="uid://bnmbcc3nej336" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/buttonBlue.png" id="2_2lh5r"]
+[ext_resource type="Texture2D" uid="uid://dym0gpsgehwrt" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/buttonBlue_pressed.png" id="3_jfb1r"]
+
+[node name="InteractiveTile" unique_id=671834983 instance=ExtResource("1_u6wj3")]
+colour = 3
+
+[node name="On" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="1" unique_id=165940837]
+texture = ExtResource("3_jfb1r")
+
+[node name="Off" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="2" unique_id=1135150647]
+texture = ExtResource("2_2lh5r")

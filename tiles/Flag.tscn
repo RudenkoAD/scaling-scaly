@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://c015sak0y70n7"]
+
+[ext_resource type="PackedScene" uid="uid://cqf4tgoids37r" path="res://tiles/InteractiveTile.tscn" id="1_kpexr"]
+[ext_resource type="Script" uid="uid://bx2gmrduebbe8" path="res://flag.gd" id="2_wq8uc"]
+[ext_resource type="Texture2D" uid="uid://stwmqqqp1vsd" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/flagRed2.png" id="3_m4gl1"]
+
+[node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_kpexr")]
+script = ExtResource("2_wq8uc")
+
+[node name="Area2D" parent="." index="0" unique_id=1013999250]
+collision_layer = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="." index="1" unique_id=1580160720]
+texture = ExtResource("3_m4gl1")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

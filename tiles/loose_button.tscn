@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://c4qfolrvbfkpk"]
+
+[ext_resource type="PackedScene" uid="uid://dcbxejpk4pxxn" path="res://tiles/ButtonTemplate.tscn" id="1_ltdnl"]
+[ext_resource type="Script" uid="uid://c5ekqmafr3b07" path="res://loose_button.gd" id="2_80o84"]
+
+[node name="InteractiveTile" unique_id=671834983 instance=ExtResource("1_ltdnl")]
+script = ExtResource("2_80o84")
+
+[node name="On" parent="." index="1" unique_id=1214225028]
+visible = false
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
+[connection signal="body_exited" from="Area2D" to="." method="_on_area_2d_body_exited"]
