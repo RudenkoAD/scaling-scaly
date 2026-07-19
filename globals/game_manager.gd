@@ -21,6 +21,7 @@ func _ready():
 	# Using a negative index counts from the end, so this gets the last child node of `root`.
 	current_scene = root.get_child(-1)
 	InteractiveTilesSignals.PCTouchedSpikes.connect(_on_pc_death)
+	InteractiveTilesSignals.PCSquashedByDoor.connect(_on_pc_death)
 
 func change_scene(scene: GameScene) -> void:
 	call_deferred("_deferred_change_scene", scene)

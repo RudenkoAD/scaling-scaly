@@ -2,7 +2,7 @@ extends Node2D
 
 @export var colour: int
 
-@onready var box: StaticBody2D = $Box
+@onready var box: CollisionShape2D = $Box/CollisionShape2D
 @onready var closed: Sprite2D = $Closed
 @onready var open: Sprite2D = $Open
 
