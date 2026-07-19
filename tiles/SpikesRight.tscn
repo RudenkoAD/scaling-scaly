@@ -4,3 +4,5 @@
 
 [node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_8pqrq")]
 rotation = 4.712389
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

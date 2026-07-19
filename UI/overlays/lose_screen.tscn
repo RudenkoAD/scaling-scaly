@@ -1,5 +1,7 @@
 [gd_scene format=3 uid="uid://bq606x628y6w"]
 
+[ext_resource type="Texture2D" uid="uid://bn3queoqco62o" path="res://assets/kenney_ui-pack-rpg-expansion/PNG/panel_brown.png" id="1_hb0pn"]
+
 [node name="LoseScreen" type="Control" unique_id=162400083]
 layout_mode = 3
 anchors_preset = 15
@@ -8,11 +10,18 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="Label" type="Label" parent="." unique_id=134515556]
+[node name="CenterContainer" type="CenterContainer" parent="." unique_id=32130449]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+[node name="TextureRect" type="TextureRect" parent="CenterContainer" unique_id=887630707]
+layout_mode = 2
+texture = ExtResource("1_hb0pn")
+
+[node name="Label" type="Label" parent="CenterContainer" unique_id=599046859]
+layout_mode = 2
+text = "You died!"

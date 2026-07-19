@@ -35,3 +35,4 @@ func _deferred_change_scene(scene: GameScene) -> void:
 
 func _on_pc_death():
 	add_child(LOSE_SCREEN.instantiate())
+	print("you lose!")
