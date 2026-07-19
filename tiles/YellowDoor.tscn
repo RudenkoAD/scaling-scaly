@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://bo2ri0xr0h3ws"]
+
+[ext_resource type="PackedScene" uid="uid://1q6k3vtqv3kf" path="res://tiles/door.tscn" id="1_fx0qq"]
+[ext_resource type="Texture2D" uid="uid://vt2mkc252kiu" path="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/lock_yellow.png" id="2_i08p1"]
+
+[node name="Door" unique_id=387363476 instance=ExtResource("1_fx0qq")]
+colour = 1
+
+[node name="Closed" parent="." index="2" unique_id=1301519955]
+texture = ExtResource("2_i08p1")
+
+[node name="Inner" parent="." index="3" unique_id=1712596885]
+priority = 1

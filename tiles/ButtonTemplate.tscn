@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dcbxejpk4pxxn"]
+
+[ext_resource type="PackedScene" uid="uid://cqf4tgoids37r" path="res://tiles/InteractiveTile.tscn" id="1_w1qn7"]
+
+[node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_w1qn7")]
+
+[node name="On" type="Sprite2D" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="1" unique_id=165940837]
+visible = false
+
+[node name="Off" type="Sprite2D" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="2" unique_id=1135150647]

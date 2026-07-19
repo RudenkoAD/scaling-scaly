@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://lws08l27sj5k"]
+
+[ext_resource type="PackedScene" uid="uid://dyseq1lffddxx" path="res://tiles/Spikes.tscn" id="1_ehjou"]
+
+[node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_ehjou")]
+rotation = 1.5707964

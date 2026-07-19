@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://dyseq1lffddxx"]
+
+[ext_resource type="PackedScene" uid="uid://cqf4tgoids37r" path="res://tiles/InteractiveTile.tscn" id="1_0kr30"]
+[ext_resource type="Script" uid="uid://bk3gfvun0lh2g" path="res://Spikes.gd" id="2_3xtyn"]
+[ext_resource type="Texture2D" uid="uid://3eh2sw7yt3mn" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/spikes.png" id="3_uvh5p"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_887jf"]
+size = Vector2(65, 30)
+
+[node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_0kr30")]
+script = ExtResource("2_3xtyn")
+
+[node name="Area2D" parent="." index="0" unique_id=1013999250]
+collision_layer = 0
+
+[node name="CollisionShape2D" parent="Area2D" index="0" unique_id=1028887417]
+position = Vector2(0, 17.5)
+shape = SubResource("RectangleShape2D_887jf")
+
+[node name="Sprite2D" type="Sprite2D" parent="." index="1" unique_id=784233831]
+texture = ExtResource("3_uvh5p")

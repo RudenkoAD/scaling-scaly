@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://1q6k3vtqv3kf"]
+
+[ext_resource type="Script" uid="uid://cre6ahd0nngfx" path="res://door.gd" id="1_30m3h"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2ijrf"]
+size = Vector2(70, 70)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_a6bys"]
+size = Vector2(65, 65)
+
+[node name="Door" type="Node2D" unique_id=387363476]
+script = ExtResource("1_30m3h")
+
+[node name="Box" type="StaticBody2D" parent="." unique_id=1567226918]
+collision_layer = 3
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Box" unique_id=659169305]
+shape = SubResource("RectangleShape2D_2ijrf")
+
+[node name="Open" type="Sprite2D" parent="." unique_id=849828619]
+visible = false
+
+[node name="Closed" type="Sprite2D" parent="." unique_id=1301519955]
+
+[node name="Inner" type="Area2D" parent="." unique_id=1712596885]
+collision_layer = 0
+collision_mask = 3
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Inner" unique_id=1927101604]
+shape = SubResource("RectangleShape2D_a6bys")
+
+[connection signal="body_entered" from="Inner" to="." method="_on_inner_body_entered"]
+[connection signal="body_exited" from="Inner" to="." method="_on_inner_body_exited"]

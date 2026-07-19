@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cqf4tgoids37r"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_alsvd"]
+size = Vector2(70, 70)
+
+[node name="InteractiveTile" type="Node2D" unique_id=816764915]
+
+[node name="Area2D" type="Area2D" parent="." unique_id=1013999250]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1028887417]
+shape = SubResource("RectangleShape2D_alsvd")
