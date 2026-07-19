@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://d3tqshp46g4v8"]
+
+[ext_resource type="Script" uid="uid://cxxo56u6xjmgp" path="res://snake/snake_class.gd" id="1_j2kkt"]
+
+[node name="Snake" type="Node2D" unique_id=441844533]
+script = ExtResource("1_j2kkt")
+
+[node name="Timer" type="Timer" parent="." unique_id=1985584357]
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

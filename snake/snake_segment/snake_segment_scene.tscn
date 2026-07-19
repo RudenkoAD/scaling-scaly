@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://b7wr1lgjj84i7"]
+
+[ext_resource type="Script" uid="uid://npqie7wt1ols" path="res://snake/snake_segment/snake_segment_class.gd" id="1_cbgw7"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_hsg2l"]
+size = Vector2(60, 60)
+
+[node name="Snake_Segment_Scene" type="CharacterBody2D" unique_id=724889664]
+position = Vector2(589, 341)
+collision_layer = 2
+collision_mask = 4
+script = ExtResource("1_cbgw7")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1991750147]
+shape = SubResource("RectangleShape2D_hsg2l")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1065022568]
+offset_left = -35.0
+offset_top = -35.0
+offset_right = 35.0
+offset_bottom = 35.0
+color = Color(0.13211271, 0.65566844, 0.46339303, 0.38039216)
+metadata/_edit_use_anchors_ = true
