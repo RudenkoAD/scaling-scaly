@@ -4,7 +4,9 @@
 [ext_resource type="Texture2D" uid="uid://ck6ju4v610xiv" path="res://assets/kenney_shape-characters/PNG/Double/face_f.png" id="1_g6k8r"]
 [ext_resource type="Texture2D" uid="uid://w7duj0fqroy6" path="res://assets/kenney_shape-characters/PNG/Double/face_e.png" id="2_boad6"]
 [ext_resource type="Texture2D" uid="uid://drtn66ioog0rb" path="res://assets/kenney_shape-characters/PNG/Double/face_a.png" id="2_rgyib"]
+[ext_resource type="Texture2D" uid="uid://bvlxh1ethj78v" path="res://assets/kenney_shape-characters/PNG/Double/face_j.png" id="3_8t03j"]
 [ext_resource type="Texture2D" uid="uid://bvh1a6nct2832" path="res://assets/kenney_shape-characters/PNG/Double/face_h.png" id="3_rgyib"]
+[ext_resource type="Texture2D" uid="uid://bxbetre5hjq41" path="res://assets/kenney_shape-characters/PNG/Double/face_k.png" id="4_2ieo8"]
 [ext_resource type="Texture2D" uid="uid://b0srtua5qarnr" path="res://assets/kenney_shape-characters/PNG/Double/face_c.png" id="4_hg6s5"]
 [ext_resource type="Texture2D" uid="uid://dkps65deqevqy" path="res://assets/kenney_shape-characters/PNG/Double/face_d.png" id="5_8t03j"]
 [ext_resource type="Texture2D" uid="uid://u2342iwdt20v" path="res://assets/kenney_shape-characters/PNG/Double/face_l.png" id="6_2ieo8"]
@@ -17,6 +19,20 @@ animations = [{
 }],
 "loop": 1,
 "name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 2.0,
+"texture": ExtResource("3_8t03j")
+}, {
+"duration": 2.0,
+"texture": ExtResource("4_2ieo8")
+}, {
+"duration": 2.0,
+"texture": ExtResource("6_2ieo8")
+}],
+"loop": 1,
+"name": &"idle",
 "speed": 5.0
 }, {
 "frames": [{
@@ -91,7 +107,8 @@ script = ExtResource("1_boad6")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=366210186]
 scale = Vector2(0.2, 0.2)
 sprite_frames = SubResource("SpriteFrames_ippcl")
-frame_progress = 0.77931166
+animation = &"idle"
 
 [node name="PlayerCollisionBox" type="CollisionShape2D" parent="." unique_id=1797710218]
+visible = false
 shape = SubResource("RectangleShape2D_ippcl")
