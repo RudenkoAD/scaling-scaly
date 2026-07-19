@@ -5,6 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://b35kj4pivj8ak" path="res://assets/kenney_platformer-art-deluxe/Base pack/Items/buttonRed_pressed.png" id="3_iu657"]
 
 [node name="InteractiveTile" unique_id=671834983 instance=ExtResource("1_j76fr")]
+colour = 2
 
 [node name="On" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="1" unique_id=165940837]
 texture = ExtResource("3_iu657")

@@ -6,6 +6,9 @@
 [node name="Door" unique_id=387363476 instance=ExtResource("1_s4vfx")]
 colour = 3
 
+[node name="Box" parent="." index="0" unique_id=1567226918]
+collision_layer = 4
+
 [node name="Closed" parent="." index="2" unique_id=1301519955]
 texture = ExtResource("2_8txsa")
 

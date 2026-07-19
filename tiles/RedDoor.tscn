@@ -4,6 +4,10 @@
 [ext_resource type="Texture2D" uid="uid://cu836iqhhskmt" path="res://assets/kenney_platformer-art-deluxe/Base pack/Tiles/lock_red.png" id="2_b7268"]
 
 [node name="Door" unique_id=387363476 instance=ExtResource("1_e4pn5")]
+colour = 2
+
+[node name="Box" parent="." index="0" unique_id=1567226918]
+collision_layer = 4
 
 [node name="Closed" parent="." index="2" unique_id=1301519955]
 texture = ExtResource("2_b7268")

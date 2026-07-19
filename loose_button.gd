@@ -2,6 +2,9 @@ extends Node2D
 
 @export var colour: int;
 
+@onready var on: Sprite2D = $Area2D/On
+@onready var off: Sprite2D = $Area2D/Off
+
 var isPressed = false;
 
 func _ready() -> void:
@@ -10,13 +13,13 @@ func _ready() -> void:
 func _on_area_2d_body_entered(body: Node2D) -> void:
 	if (isPressed == false) :
 		InteractiveTilesSignals.DoorOpen.emit(colour);
-		$Off.visible = true;
-		$On.visible = false;
+		off.visible = false;
+		on.visible = true;
 	isPressed = true;
 
 func _on_area_2d_body_exited(body: Node2D) -> void:
 	if (isPressed == true) :
 		InteractiveTilesSignals.DoorClose.emit(colour);
-		$Off.visible = false;
-		$On.visible = true;
+		off.visible = true;
+		on.visible = false;
 	isPressed = false;

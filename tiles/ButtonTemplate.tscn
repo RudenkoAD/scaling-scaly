@@ -4,7 +4,10 @@
 
 [node name="InteractiveTile" unique_id=816764915 instance=ExtResource("1_w1qn7")]
 
-[node name="On" type="Sprite2D" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="1" unique_id=165940837]
+[node name="Area2D" parent="." index="0" unique_id=1013999250]
+collision_layer = 4
+
+[node name="On" type="Sprite2D" parent="Area2D" index="1" unique_id=165940837]
 visible = false
 
-[node name="Off" type="Sprite2D" parent="Area2D" parent_id_path=PackedInt32Array(1013999250) index="2" unique_id=1135150647]
+[node name="Off" type="Sprite2D" parent="Area2D" index="2" unique_id=1135150647]
