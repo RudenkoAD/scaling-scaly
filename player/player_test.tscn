@@ -1,0 +1,69 @@
+[gd_scene format=3 uid="uid://byirlculncm1x"]
+
+[ext_resource type="PackedScene" uid="uid://dtfjs33vqkek" path="res://player/player.tscn" id="1_3tgmv"]
+[ext_resource type="PackedScene" uid="uid://b4f8s4vgkq4nw" path="res://tiles/RedDoor.tscn" id="2_g4imw"]
+
+[node name="PlayerTest" type="Node2D" unique_id=1472377924]
+
+[node name="Player" parent="." unique_id=213539616 instance=ExtResource("1_3tgmv")]
+position = Vector2(281, 810)
+
+[node name="Door" parent="." unique_id=387363476 instance=ExtResource("2_g4imw")]
+position = Vector2(35, 1046)
+
+[node name="Door2" parent="." unique_id=1821460952 instance=ExtResource("2_g4imw")]
+position = Vector2(104, 1049)
+
+[node name="Door3" parent="." unique_id=1950101958 instance=ExtResource("2_g4imw")]
+position = Vector2(178, 1050)
+
+[node name="Door" parent="Door3" unique_id=1852030611 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door4" parent="." unique_id=1696413907 instance=ExtResource("2_g4imw")]
+position = Vector2(246, 1053)
+
+[node name="Door" parent="Door4" unique_id=920483635 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door5" parent="." unique_id=475293659 instance=ExtResource("2_g4imw")]
+position = Vector2(318, 1051)
+
+[node name="Door" parent="Door5" unique_id=1664878546 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door6" parent="." unique_id=909426924 instance=ExtResource("2_g4imw")]
+position = Vector2(389, 1049)
+
+[node name="Door" parent="Door6" unique_id=1610120310 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door7" parent="." unique_id=212060531 instance=ExtResource("2_g4imw")]
+position = Vector2(461, 1050)
+
+[node name="Door" parent="Door7" unique_id=756604469 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door3" parent="Door7" unique_id=2093035173 instance=ExtResource("2_g4imw")]
+position = Vector2(178, 1050)
+
+[node name="Door" parent="Door7/Door3" unique_id=1762107623 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door8" parent="." unique_id=918321828 instance=ExtResource("2_g4imw")]
+position = Vector2(525, 982)
+
+[node name="Door" parent="Door8" unique_id=496444519 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door9" parent="." unique_id=495351156 instance=ExtResource("2_g4imw")]
+position = Vector2(595, 915)
+
+[node name="Door" parent="Door9" unique_id=685005855 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
+
+[node name="Door10" parent="." unique_id=665913111 instance=ExtResource("2_g4imw")]
+position = Vector2(660, 846)
+
+[node name="Door" parent="Door10" unique_id=503431425 instance=ExtResource("2_g4imw")]
+position = Vector2(34, 1050)
