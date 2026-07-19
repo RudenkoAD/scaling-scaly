@@ -12,7 +12,7 @@ var snakeOverlaps: bool = false
 var playerOverlaps: bool = false
 func _ready() -> void:
 	InteractiveTilesSignals.DoorOpen.connect(OpenSignal)
-	InteractiveTilesSignals.DoorClose.connect(OpenSignal)
+	InteractiveTilesSignals.DoorClose.connect(CloseSignal)
 	closedCount = 0
 	snakeOverlaps = false
 	playerOverlaps = false
