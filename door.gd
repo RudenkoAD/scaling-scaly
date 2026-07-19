@@ -1,10 +1,15 @@
 extends Node2D
 
 @export var colour: int
+
+@onready var box: StaticBody2D = $Box
+@onready var closed: Sprite2D = $Closed
+@onready var open: Sprite2D = $Open
+
+
 var closedCount: int = 0
 var snakeOverlaps: bool = false
 var playerOverlaps: bool = false
-
 func _ready() -> void:
 	InteractiveTilesSignals.DoorOpen.connect(OpenSignal)
 	InteractiveTilesSignals.DoorClose.connect(OpenSignal)
@@ -16,14 +21,18 @@ func OpenSignal(signalColour: int) -> void:
 	if (signalColour != colour):
 		return
 	if (closedCount == 0):
-		$Box.set_deferred("disabled", true)
+		box.set_deferred("disabled", true)
+		closed.visible = false
+		open.visible = true
 	closedCount += 1
 
 func CloseSignal(signalColour: int) -> void:
 	if (signalColour != colour):
 		return
 	if (closedCount == 1):
-		$Box.set_deferred("disabled", false)
+		box.set_deferred("disabled", false)
+		closed.visible = true
+		open.visible = false
 		if (playerOverlaps):
 			InteractiveTilesSignals.PCSquashedByDoor.emit()
 		if (snakeOverlaps):
