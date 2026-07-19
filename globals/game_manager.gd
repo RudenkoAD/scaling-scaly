@@ -1,13 +1,17 @@
 extends Node
 
 #preloaded scenes
-const MAIN_MENU = preload("uid://7gocfy52s5be")
+const CONTROLS = preload("res://UI/controls.tscn")
+const CONFIG = preload("res://UI/config.tscn")
+const MAIN_MENU = preload("res://UI/main_menu.tscn")
 
 
 var current_scene: Node = null
-enum GameScene {MainMenu}
+enum GameScene {MainMenu, Config, Controls}
 static var scenes:Dictionary = {
-	GameScene.MainMenu: MAIN_MENU
+	GameScene.MainMenu: MAIN_MENU,
+	GameScene.Config: CONFIG,
+	GameScene.Controls: CONTROLS
 }
 
 func _ready():

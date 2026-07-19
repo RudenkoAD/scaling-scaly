@@ -1,5 +1,8 @@
 [gd_scene format=3 uid="uid://dfuhd7trrnu8i"]
 
+[ext_resource type="Theme" uid="uid://dtvnuuw3ga5y1" path="res://theme/theme.tres" id="1_ehuxe"]
+[ext_resource type="Script" uid="uid://7wj7bpels65t" path="res://UI/config.gd" id="1_wmafw"]
+
 [node name="Config" type="Control" unique_id=1682125990]
 layout_mode = 3
 anchors_preset = 15
@@ -7,3 +10,64 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+script = ExtResource("1_wmafw")
+
+[node name="MarginContainer" type="MarginContainer" parent="." unique_id=497067626]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1_ehuxe")
+theme_override_constants/margin_left = 100
+theme_override_constants/margin_top = 100
+theme_override_constants/margin_right = 100
+theme_override_constants/margin_bottom = 100
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer" unique_id=517743972]
+layout_mode = 2
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer" unique_id=533436419]
+layout_mode = 2
+alignment = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=403627144]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer" unique_id=879371503]
+layout_mode = 2
+alignment = 1
+
+[node name="Sound" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer/VBoxContainer" unique_id=2134088195]
+layout_mode = 2
+text = "Sound"
+horizontal_alignment = 1
+
+[node name="SoundSlider" type="HSlider" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer/VBoxContainer" unique_id=193541888]
+layout_mode = 2
+
+[node name="MarginContainer2" type="MarginContainer" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=1155945032]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer2" unique_id=1942942230]
+layout_mode = 2
+alignment = 1
+
+[node name="FullScreen" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer2/VBoxContainer" unique_id=1846741105]
+layout_mode = 2
+text = "FullScreen"
+horizontal_alignment = 1
+
+[node name="CheckBox" type="CheckBox" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer2/VBoxContainer" unique_id=2026852238]
+layout_mode = 2
+
+[node name="MarginContainer3" type="MarginContainer" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=770124734]
+layout_mode = 2
+
+[node name="ControlsButton" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer3" unique_id=311739688]
+layout_mode = 2
+text = "controls"
+
+[connection signal="pressed" from="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer3/ControlsButton" to="." method="_on_controls_button_pressed"]

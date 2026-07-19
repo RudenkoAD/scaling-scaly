@@ -2,6 +2,7 @@
 
 [ext_resource type="FontFile" uid="uid://c758typ34jb8s" path="res://assets/fonts/magical-neverland-font/misc/Magical Neverland-e009.woff" id="1_4yjuo"]
 [ext_resource type="StyleBox" uid="uid://gr6731iym4lo" path="res://theme/button_texture.tres" id="1_nrt0f"]
+[ext_resource type="FontFile" uid="uid://2vn13ubxjeb6" path="res://assets/fonts/magical-neverland-font/MagicalNeverlandRegular-JpRZ7.ttf" id="3_4yjuo"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_6l1ye"]
 expand_margin_left = 25.0
@@ -22,6 +23,29 @@ expand_margin_top = 17.0
 expand_margin_right = 25.0
 expand_margin_bottom = 17.0
 modulate_color = Color(0.7592214, 0.7592214, 0.7592214, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_gco77"]
+content_margin_left = 4.0
+content_margin_top = 4.0
+content_margin_right = 4.0
+content_margin_bottom = 4.0
+bg_color = Color(1, 1, 1, 0.75)
+draw_center = false
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+corner_radius_top_left = 3
+corner_radius_top_right = 3
+corner_radius_bottom_right = 3
+corner_radius_bottom_left = 3
+corner_detail = 5
+expand_margin_left = 2.0
+expand_margin_top = 2.0
+expand_margin_right = 2.0
+expand_margin_bottom = 2.0
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_6l1ye"]
 
 [resource]
 Button/colors/font_color = Color(0.42352942, 0.29411766, 0.07058824, 1)
@@ -47,6 +71,18 @@ Button/styles/focus = SubResource("StyleBoxTexture_6l1ye")
 Button/styles/hover = SubResource("StyleBoxTexture_4ytkp")
 Button/styles/normal = ExtResource("1_nrt0f")
 Button/styles/pressed = SubResource("StyleBoxTexture_5wxyd")
+Label/colors/font_color = Color(1, 1, 1, 1)
+Label/colors/font_outline_color = Color(0, 0, 0, 1)
+Label/colors/font_shadow_color = Color(0, 0, 0, 0)
+Label/constants/line_spacing = 3
+Label/constants/outline_size = 0
+Label/constants/shadow_offset_x = 1
+Label/constants/shadow_offset_y = 1
+Label/constants/shadow_outline_size = 1
+Label/font_sizes/font_size = 90
+Label/fonts/font = ExtResource("3_4yjuo")
+Label/styles/focus = SubResource("StyleBoxFlat_gco77")
+Label/styles/normal = SubResource("StyleBoxEmpty_6l1ye")
 MarginContainer/constants/margin_bottom = 17
 MarginContainer/constants/margin_left = 25
 MarginContainer/constants/margin_right = 25

@@ -5,6 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://d35wxe74g82qw" path="res://assets/kenney_skyboxes/Skyboxes/skybox-morning.png" id="2_tk8dj"]
 [ext_resource type="Shader" uid="uid://5c21rl40kx0l" path="res://UI/main_menu_background_shader.gdshader" id="3_f40uw"]
 [ext_resource type="Script" uid="uid://cpnvnqqju6yu7" path="res://UI/main_menu_background.gd" id="4_4cwpn"]
+[ext_resource type="Texture2D" uid="uid://cwumx7sbt1owk" path="res://assets/kenney_ui-pack-adventure/Vector/banner_hanging.svg" id="6_8ctay"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_8ctay"]
 shader = ExtResource("3_f40uw")
@@ -57,7 +58,7 @@ layout_mode = 2
 [node name="StartGameButton" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer" unique_id=383957995]
 layout_mode = 2
 theme = ExtResource("1_p8ccj")
-text = "start game"
+text = "start"
 
 [node name="MarginContainer2" type="MarginContainer" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=1049530067]
 layout_mode = 2
@@ -72,6 +73,30 @@ layout_mode = 2
 [node name="QuitButton" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer3" unique_id=477109315]
 layout_mode = 2
 text = "quit"
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=813522769]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -614.0
+offset_right = 614.0
+offset_bottom = 307.0
+grow_horizontal = 2
+offset_transform_enabled = true
+offset_transform_position_ratio = Vector2(0, -0.1)
+texture = ExtResource("6_8ctay")
+
+[node name="Label" type="Label" parent="TextureRect" unique_id=2053299565]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "scaling scales"
+horizontal_alignment = 1
+vertical_alignment = 1
 
 [connection signal="pressed" from="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer/StartGameButton" to="." method="_on_start_game_button_pressed"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/VBoxContainer/MarginContainer2/ConfigButton" to="." method="_on_config_button_pressed"]

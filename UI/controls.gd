@@ -11,13 +11,5 @@ func _process(delta: float) -> void:
 	pass
 
 
-func _on_start_game_button_pressed() -> void:
+func _on_button_pressed() -> void:
 	GameManager.change_scene(GameManager.GameScene.Config)
-
-
-func _on_config_button_pressed() -> void:
-	GameManager.change_scene(GameManager.GameScene.Config)
-
-
-func _on_quit_button_pressed() -> void:
-	pass # Replace with function body.

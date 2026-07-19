@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://css04lg2n2bbx"]
+
+[ext_resource type="Script" uid="uid://c1q21k8rxvcjy" path="res://UI/controls_subscenes/controls_container.gd" id="1_8sm4i"]
+
+[node name="ControlsContainer" type="HBoxContainer" unique_id=1871445093]
+alignment = 1
+script = ExtResource("1_8sm4i")
+
+[node name="Label" type="Label" parent="." unique_id=1084638059]
+layout_mode = 2
+text = "snake_up"
+
+[node name="Button" type="Button" parent="." unique_id=1351953110]
+layout_mode = 2
+text = "edit"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
