@@ -12,7 +12,7 @@ func _process(delta: float) -> void:
 
 
 func _on_start_game_button_pressed() -> void:
-	GameManager.change_scene(GameManager.GameScene.Config)
+	GameManager.change_scene(GameManager.GameScene.Level1)
 
 
 func _on_config_button_pressed() -> void:

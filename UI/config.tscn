@@ -2,6 +2,13 @@
 
 [ext_resource type="Theme" uid="uid://dtvnuuw3ga5y1" path="res://theme/theme.tres" id="1_ehuxe"]
 [ext_resource type="Script" uid="uid://7wj7bpels65t" path="res://UI/config.gd" id="1_wmafw"]
+[ext_resource type="Shader" uid="uid://5c21rl40kx0l" path="res://UI/main_menu_background_shader.gdshader" id="2_mhqb4"]
+[ext_resource type="Texture2D" uid="uid://d35wxe74g82qw" path="res://assets/kenney_skyboxes/Skyboxes/skybox-morning.png" id="3_swf85"]
+[ext_resource type="Script" uid="uid://cpnvnqqju6yu7" path="res://UI/main_menu_background.gd" id="4_bw3hf"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_nfxpj"]
+shader = ExtResource("2_mhqb4")
+shader_parameter/scroll_speed = 0.0
 
 [node name="Config" type="Control" unique_id=1682125990]
 layout_mode = 3
@@ -11,6 +18,22 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_wmafw")
+
+[node name="MainMenuBackground" type="TextureRect" parent="." unique_id=1299737421]
+material = SubResource("ShaderMaterial_nfxpj")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -1088.0
+offset_top = -484.0
+offset_right = 1088.0
+offset_bottom = 484.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_swf85")
+stretch_mode = 1
+script = ExtResource("4_bw3hf")
 
 [node name="MarginContainer" type="MarginContainer" parent="." unique_id=497067626]
 layout_mode = 1

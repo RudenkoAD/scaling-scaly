@@ -3,6 +3,7 @@
 [ext_resource type="TileSet" uid="uid://cctudhtt1jni8" path="res://tilesets/background.tres" id="1_uukco"]
 [ext_resource type="TileSet" uid="uid://ch6vygww48de6" path="res://tilesets/background_decals.tres" id="2_d3pbt"]
 [ext_resource type="TileSet" uid="uid://cntoxjnorggcs" path="res://tilesets/foreground.tres" id="3_tlbw1"]
+[ext_resource type="PackedScene" uid="uid://dtfjs33vqkek" path="res://player/player.tscn" id="4_d3pbt"]
 
 [node name="LevelTilemap" type="Node2D" unique_id=110608942]
 
@@ -14,3 +15,6 @@ tile_set = ExtResource("2_d3pbt")
 
 [node name="Foreground" type="TileMapLayer" parent="." unique_id=330812057]
 tile_set = ExtResource("3_tlbw1")
+
+[node name="Player" parent="." unique_id=213539616 instance=ExtResource("4_d3pbt")]
+position = Vector2(323, 282)

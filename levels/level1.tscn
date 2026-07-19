@@ -6,6 +6,7 @@
 [ext_resource type="TileSet" uid="uid://ch6vygww48de6" path="res://tilesets/background_decals.tres" id="2_ua5ty"]
 [ext_resource type="Script" uid="uid://cpnvnqqju6yu7" path="res://UI/main_menu_background.gd" id="3_045es"]
 [ext_resource type="TileSet" uid="uid://cntoxjnorggcs" path="res://tilesets/foreground.tres" id="3_61w3m"]
+[ext_resource type="PackedScene" uid="uid://dtfjs33vqkek" path="res://player/player.tscn" id="7_8hd6v"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_omn1t"]
 shader = ExtResource("1_pdpul")
@@ -38,3 +39,7 @@ tile_set = ExtResource("2_ua5ty")
 position = Vector2(1, 1)
 tile_map_data = PackedByteArray("AAAKAAkAUgADAAIAAAAJAAkAUgACAAIAAAAIAAkAUgABAAIAAAAMAAYAUgAAAAIAAAALAAYAUgAEAAEAAAAKAAYAUgADAAEAAAAQAAgAUgAAAAIAAAAPAAgAUgAEAAEAAAAOAAgAUgAEAAEAAAANAAgAUgADAAEAAAAOAAQAUgADAAIAAAAOAAMAUgADAAIAAAAOAAIAUgADAAIAAAANAAQAUgABAAIAAAANAAMAUgABAAIAAAANAAIAUgABAAIAAAAHAAkAAAAAAAAAEQALAAkAAAAAAAAAEAAIAAgAAAAAAAAADwAJAAgAAAAAAAAABwAKAAgAAAAAAAAADwAQAAcAAAAAAAAABgAQAAYAAAAAAAAABgAFAAkAUgAAAAAAAAAEAAkAUgAAAAAAAAADAAkAUgAAAAAAAAA=")
 tile_set = ExtResource("3_61w3m")
+
+[node name="Player" parent="." unique_id=213539616 instance=ExtResource("7_8hd6v")]
+position = Vector2(297, 178)
+collision_mask = 4
